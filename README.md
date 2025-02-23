@@ -4,11 +4,11 @@
   If it's hosted elsewhere, use the full URL (e.g., `https://example.com/asad.jpg`).
 -->
 
-![Asad Zubair Bhatti](/me.png "Asad Zubair Bhatti")
-
 # Asad Zubair Bhatti's Portfolio
 
 Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. Here, I’ll be showcasing some of my work, including both client projects and personal (hobby) projects. Feel free to explore, and don't hesitate to get in touch if you have any questions.
+
+<img src="me.png" alt="Asad Zubair Bhatti" width="150">
 
 ---
 
