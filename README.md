@@ -6,7 +6,7 @@
 
 # Asad Zubair Bhatti's Portfolio
 
-Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. Here, I’ll be showcasing some of my work, including both client projects and personal (hobby) projects. Feel free to explore, and don't hesitate to get in touch if you have any questions.
+Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. Here, I’ll be showcasing some of my work, including both client projects and personal (hobby) projects. Feel free to explore, and don't hesitate to [get in touch](mailto:bhatti.asad99@gmail.com) if you have any questions.
 
 <img src="me.png" alt="Asad Zubair Bhatti" width="150">
 
