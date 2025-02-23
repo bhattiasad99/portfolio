@@ -4,8 +4,7 @@
   If it's hosted elsewhere, use the full URL (e.g., `https://example.com/asad.jpg`).
 -->
 
-![Asad Zubair Bhatti](./me.jpg)
-
+![Asad Zubair Bhatti](/me.png "Asad Zubair Bhatti")
 
 # Asad Zubair Bhatti's Portfolio
 
