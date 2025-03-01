@@ -23,11 +23,18 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 ## Client Work
 
 ### Project 1  
-**Title:** Awesome Client Project  
-**Technologies:** ![React Badge](...) ![Node Badge](...)  
-**Demo:** [YouTube](https://youtube.com)  
-**Source:** [GitHub](https://github.com)  
-**Live:** [Demo URL](https://example.com)  
+**Title:** JobTask UK Ltd.   
+**Technologies:** 
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
+- <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
+- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
+
+**Summary:**
+JobTask is a digital marketplace connecting users with a variety of handyman services, from cleaning and removals to furniture assembly and deliveries. It simplifies bookings, payments, and communication, providing a seamless experience for both customers and service providers.
+
+**Project Detail:** [Click here to view Complete Project Detail](https://youtube.com)  
 
 ---
 
