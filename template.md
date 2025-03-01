@@ -1,6 +1,6 @@
 [⬅ Back to All Projects](../README.md#table-of-contents)
 
-# 📌 JobTask UK Ltd.
+# 📌 NAME OF PROJECT.
 
 ---
 
