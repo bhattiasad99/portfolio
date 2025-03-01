@@ -34,7 +34,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 **Summary:**
 JobTask is a digital marketplace connecting users with a variety of handyman services, from cleaning and removals to furniture assembly and deliveries. It simplifies bookings, payments, and communication, providing a seamless experience for both customers and service providers.
 
-**Project Detail:** [Click here to view Complete Project Detail](https://youtube.com)  
+**Project Detail:** [Click here to view Complete Project Detail](docs/jobtask.md)  
 
 ---
 
