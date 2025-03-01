@@ -24,7 +24,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 
 ### Project 1  
 **Title:** JobTask UK Ltd.  
-**Technologies:** ![React Badge](...) ![Node Badge](...)  
+**Technologies:** ![React Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s) ![Node Badge](...)  
 **Demo:** [YouTube](https://youtube.com)  
 **Source:** [GitHub](https://github.com)  
 **Live:** [Demo URL](https://example.com)  
