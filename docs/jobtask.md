@@ -8,11 +8,8 @@
 
 - [📖 Summary](#-summary)  
 - [📑 Case Study](#-case-study)  
-- [🌐 Demo URL](#-demo-url)  
 - [🎥 Video Walkthrough](#-video-walkthrough)  
-- [🖼 Images](#-images)  
-- [🔗 GitHub Repository](#-github-repository)  
-- [🏷 Type](#-type)  
+- [🏷 Project Type](#-type)  
 
 ---
 
