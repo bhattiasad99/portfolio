@@ -1,6 +1,6 @@
 [⬅ Back to All Projects](../README.md#my-work)
 
-# 📌 Madinah
+# 📌 Zown
 
 ---
 
@@ -15,32 +15,27 @@
 [Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
-Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
+Zown is a real estate company operating in Canada that provides financial assistance on down payments to their potential house purchasers. Zown.ca is a platform that provides down payment calculation, helps users find properties and listings and even helps them sell properties. This website has around 1000 users daily.  
 
 **Key Features:**
-- **Trusted Fundraising:** Madinah.com offers a secure environment for fundraising, ensuring that personal information is handled with the utmost safety and compliance.
-- **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
-- **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
+- **Mortgage Calculator:** Zown helps their users provide assistance on mortgage.
+- **Property Listings:** With their listings app, Zown customers can purchase properties on the go
+- **Selling Assistance:** Zown also helps their customers in selling their properties.
 
-<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
+<img alt="Main Website Page" src="https://github.com/user-attachments/assets/028ccf08-c242-4b79-adbe-3d75fad0c98f" width="750">
 
 **Technologies:** 
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" width="20px"> Tailwind
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcr0JVzHuA0uCmJJVH5LMsGIueBWzIJJwieQ&s" width="20px"> RsBuild
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
-- <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTY6KtRF4YiS9M6VIg7fljLqppoPbJ-mrLw&s" width="20px"> Google Cloud Platform
 
 ---
 [Back to Table of Contents](#-table-of-contents)
 ## 🌐 Demo URL  
 
-🔗 **Live/Staging Link:** [View Demo](https://madinah.com)  
+🔗 **Live/Staging Link:** [View Demo](https://zown.ca)  
 
 *(Users can explore the working version here.)*  
 
