@@ -93,7 +93,7 @@ Our team of web developers, and software architects developed Madinah.com (the U
 
 ## 🏷 Type  
 
-🛠 **Project Type:** `Professional` / `Hobby`  
+🛠 **Project Type:** `Professional` 
 
 ---
 
