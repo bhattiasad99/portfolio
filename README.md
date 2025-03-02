@@ -12,11 +12,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Professional Work](#professional-work)
-  - [Madinah](#madinah)
-  - [Zown](#zown)
-  - [JobTask UK Ltd.](#jobtask-uk-ltd)
-- [Hobby Work](#hobby-work)
+- [My Work](#my-work)
 - [Contact](#contact)
 
 ## Introduction
@@ -37,61 +33,27 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 
 ---
 
-## Professional Work
 [← Back to Table of Contents](#table-of-contents)
-### Madinah
-
-**Summary:**
-Madinah.com is a platform with **more than 10K monthly users** that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.
-
-**Project Details:** [**Click here to view Complete Project Details**](docs/madinah.md)
-
-[Click here to View Live Project](https://madinah.com/)
-
-**My Roles:** 
-- 🖥️ Frontend Development (MVP + Launch)
-- 👨‍💻 Backend Development (API Development)
-- 📊 Project Oversight
-
----
-[← Back to Table of Contents](#table-of-contents)
-### Zown
-
-**Summary:**
-Zown.ca is a real estate company with **estimated 1000 daily users** that also provides financial assistance on Down payments while purchasing properties on mortgage in Canada.
-
-**Project Details:** [**Click here to view Complete Project Details**](docs/zown.md)
-
-[Click here to View Live Project](https://zown.ca/)
-
-**My Roles:** 
-- 🖥️ Frontend Development (MVP + Maintenance)
-
----
-[← Back to Table of Contents](#table-of-contents)
-### JobTask UK Ltd.
-
-**Summary:**
-JobTask is a business that provides handyman services, including cleaning, removals, furniture assembly, deliveries etc. Through its website, customers can easily access and book services online. The platform streamlines bookings, payments, and communication, ensuring a smooth experience for both customers and service providers.
-
-**Project Details:** [**Click here to view Complete Project Details**](docs/jobtask.md)
-
-**My Roles:** 
-- 🖥️ Frontend Development
-- 👨‍💻 Backend Development
-- 📈 Project Governance & Reporting
-- ✍ Project Architecture & Planning
-
----
-
-## Hobby Work
-
-### Project 1  
-**Title:** Awesome Client Project  
-**Technologies:** ![React Badge](...) ![Node Badge](...)  
-**Demo:** [YouTube](https://youtube.com)  
-**Source:** [GitHub](https://github.com)  
-**Live:** [Demo URL](https://example.com)  
+## My Work
+| Project Title | Summary | Case Study URL | Demo URL | Type |
+|---------------|-------------|----------------|------------|------|
+| Madinah | A Crowdfunding Platform |   [Case Study & Further Details](docs/madinah.md) | [Live Project](https://madinah.com/) | `Professional` |
+| Zown | Real Estate Company Also offering Down Payment Assistance |  [Case Study & Further Details](docs/zown.md) | [Live Project](https://zown.ca/) | `Professional` |
+| Octilearn | EdTech Notes & Exam Preparation Platform | [Case Study & Further Details](docs/octilearn.md) | [Live Project](https://octilearn.com/) | `Professional` |
+| Yamar | Holiday Planning Website |  [Case Study & Further Details](docs/yamar.md) | [Live Project](https://yamar.vercel.app/) | `Professional` |
+| Bulky | Handyman Services Platform | [Case Study & Further Details](docs/bulky.md) | [Live Project](https://bulky-peach.vercel.app/) | `Professional` |
+| Aqers | Real Estate Marketplace - UI Development Only | [Case Study & Further Details](docs/aqers.md) | [Live Project](https://aqers.vercel.app/) | `Professional` |
+| Cynthia Ugwu Clone |  | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) | `Hobby` |
+| Mulk Investment | Real Estate Investment Platform | [Case Study & Further Details](docs/minv.md) |   | `Professional` |
+| JobTask | Handyman Services Business |  [Case Study & Further Details](docs/jobtask.md) |  | `Professional` |
+| Sentratainment | Travel Entertainment App |  [Case Study & Further Details](docs/sentratainment.md) |  | `Professional` |
+| Nomadiq | Tenants Management Portal |  [Case Study & Further Details](docs/nomadiq.md) |  | `Professional` |
+| Nisa Nursing Home | Hospital Internal ERP |  [Case Study & Further Details](docs/nisa-erp.md) |  | `Professional` |
+| Buddy | Software Company ERP |  [Case Study & Further Details](docs/buddy.md) |  | `Professional` |
+| E-Signature | E-Signature Tool |  [Case Study & Further Details](docs/esig.md) |  | `Professional` |
+| Hajj App | Whatsapp Bot for guiding Hajis |  [Case Study & Further Details](docs/hajj.md) |  | `Professional` |
+| Postal 247 | Food Ordering Platform App |  [Case Study & Further Details](docs/postal-247.md) |  | `Professional` |
+| Block App | Fitness & Workout Planning App for Athletes |  [Case Study & Further Details](docs/block.md) |  | `Professional` |
 
 Thank you for visiting! 
 If you’d like to know more or discuss potential collaborations, feel free to [reach out!](mailto:bhatti.asad99@gmail.com).
