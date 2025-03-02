@@ -8,7 +8,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Client Work](#client-work)
+- [Professional Work](#professional-work)
+  - [Madinah](#madinah)
   - [JobTask UK Ltd.](#jobtask-uk-ltd)
 - [Hobby Work](#hobby-work)
 - [Contact](#contact)
@@ -21,19 +22,59 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 
 ---
 
-## Client Work
+## Professional Work
 
-### JobTask UK Ltd.
+### Madinah
 
 **Summary:**
-JobTask is a digital marketplace connecting users with a variety of handyman services, from cleaning and removals to furniture assembly and deliveries. It simplifies bookings, payments, and communication, providing a seamless experience for both customers and service providers.
+Madinah.com is a platform with **more than 10K monthly users** that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.
+
+[Click here to View Live Project](https://madinah.com/)
 
 **Technologies:** 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
 - <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
 - <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
+
+**My Roles:** 
+- 🖥️ Frontend Development (MVP + Launch)
+- 👨‍💻 Backend Development (API Development)
+- 📊 Project Oversight
+
+**Project Details:** [Click here to view Complete Project Details](docs/madinah.md)
+
+### JobTask UK Ltd.
+
+**Summary:**
+JobTask is a business that provides handyman services, including cleaning, removals, furniture assembly, deliveries etc. Through its website, customers can easily access and book services online. The platform streamlines bookings, payments, and communication, ensuring a smooth experience for both customers and service providers.
+
+**Technologies:** 
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
+- <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
+- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqX9ilNtkRJvMeancrBjulZLftBdDkc3rImQ&s" width="20px"> AWS EC2
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_cYJeSxI8-Za9ctB6OsGYL4Gislqs_CeEw&s" width="20px"> AWS Amplify
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDaThaXfXl7J5PbpaRYi6-D-k0Dg7aM43xw&s" width="20px"> AWS Route 53
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mGkOt5_BUZ77gmxvEnDBN7FWSSEv3dtmgw&s" width="20px"> GoDaddy
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0umzknxSSbMcb6JY5pXIjxxcTHIedM1Y8gA&s" width="20px"> Vonage
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
+
+**My Roles:** 
+- 🖥️ Frontend Development
+- 👨‍💻 Backend Development
+- 📈 Project Governance & Reporting
+- ✍ Project Architecture & Planning
 
 **Project Details:** [Click here to view Complete Project Details](docs/jobtask.md)
 
