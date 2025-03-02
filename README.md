@@ -27,7 +27,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 **Key Skills**
 - Full Stack Development
 - Project Planning & Governance
-- KPI Development
+- Strategy
 
 **Programming Languages**
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiL5_UGi2Ft1lCBH-dklG_TIe5kjwRHPEmQ&s" width="20px"> JavaScript
