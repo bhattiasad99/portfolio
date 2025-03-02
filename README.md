@@ -6,7 +6,7 @@
 
 <h1 align="center">🌟 Asad Zubair Bhatti 🌟</h1>
 <h5 align="center">Welcome to my Portfolio!</h5>
-<div align="center">[📄 **Click here to view/download my resume**](https://drive.google.com/file/d/1tkGrEbgiNbKdo_wv-I5hKbRnn-kpO7HE/view?usp=sharing)</div>
+<div align="center"><a href="https://drive.google.com/file/d/1tkGrEbgiNbKdo_wv-I5hKbRnn-kpO7HE/view?usp=sharing"><strong>Click here to view/download my resume</strong></a></div>
 <div align="center">
   <img src="me-with-office-bg.jpeg" alt="Asad Zubair Bhatti" width="240">
 </div>
