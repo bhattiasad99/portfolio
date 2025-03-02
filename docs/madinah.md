@@ -1,14 +1,14 @@
-[⬅ Back to All Projects](../README.md#jobtask-uk-ltd)
+[⬅ Back to All Projects](../README.md#madinah)
 
-# 📌 JobTask UK Ltd.
+# 📌 Madinah
 
 ---
 
 ## 📖 Table of Contents  
 
 - [📖 Summary](#-summary)  
-- [📑 Case Study](#-case-study)  
 - [🌐 Demo URL](#-demo-url)  
+- [📑 Case Study](#-case-study)  
 - [🎥 Video Walkthrough](#-video-walkthrough)  
 - [🖼 Images](#-images)  
 - [🔗 GitHub Repository](#-github-repository)  
@@ -18,7 +18,19 @@
 
 ## 📖 Summary  
 
-*A concise summary of the project, including key features, technologies used, and its purpose.*  
+Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
+
+**Key Features:**
+- **Trusted Fundraising:** Madinah.com offers a secure environment for fundraising, ensuring that personal information is handled with the utmost safety and compliance.
+- **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
+- **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
+
+---
+## 🌐 Demo URL  
+
+🔗 **Live/Staging Link:** [View Demo](https://madinah.com)  
+
+*(Users can explore the working version here.)*  
 
 ---
 
@@ -64,14 +76,6 @@ Our team (1 designer & 2 developers) systematically tackled these issues:
 🛠 **Cleaner Codebase:** Refactoring and structured development allow easier debugging and feature expansion.  
 💡 **Enhanced User Experience:** The intuitive UI/UX led to increased engagement and positive user feedback.  
 📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
-
----
-
-## 🌐 Demo URL  
-
-🔗 **Live/Staging Link:** [View Demo](https://example.com)  
-
-*(Users can explore the working version here.)*  
 
 ---
 
