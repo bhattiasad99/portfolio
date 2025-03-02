@@ -14,6 +14,7 @@
 - [Introduction](#introduction)
 - [Professional Work](#professional-work)
   - [Madinah](#madinah)
+  - [Zown](#zown)
   - [JobTask UK Ltd.](#jobtask-uk-ltd)
 - [Hobby Work](#hobby-work)
 - [Contact](#contact)
@@ -51,6 +52,20 @@ Madinah.com is a platform with **more than 10K monthly users** that enables comm
 - 🖥️ Frontend Development (MVP + Launch)
 - 👨‍💻 Backend Development (API Development)
 - 📊 Project Oversight
+
+---
+[← Back to Table of Contents](#table-of-contents)
+### Zown
+
+**Summary:**
+Zown.ca is a real estate company with **estimated 1000 daily users** that also provides financial assistance on Down payments while purchasing properties on mortgage in Canada.
+
+**Project Details:** [**Click here to view Complete Project Details**](docs/zown.md)
+
+[Click here to View Live Project](https://zown.ca/)
+
+**My Roles:** 
+- 🖥️ Frontend Development (MVP + Maintenance)
 
 ---
 [← Back to Table of Contents](#table-of-contents)
