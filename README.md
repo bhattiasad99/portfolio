@@ -38,10 +38,10 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 |---------------|-------------|----------------|------------|------|
 | Zown | Real Estate Company Also offering Down Payment Assistance ~ **Daily 1000 users** |  [Case Study & Further Details](docs/zown.md) | [Live Project](https://zown.ca/) | `Professional` |
 | Madinah | A Crowdfunding Platform ~ **Monthly 10K Users** |   [Case Study & Further Details](docs/madinah.md) | [Live Project](https://madinah.com/) | `Professional` |
-| Octilearn | EdTech Notes & Exam Preparation Platform | [Case Study & Further Details](docs/octilearn.md) | [Live Project](https://octilearn.com/) | `Professional` |
-| Yamar | Holiday Planning Website |  [Case Study & Further Details](docs/yamar.md) | [Live Project](https://yamar.vercel.app/) | `Professional` |
-| Bulky | Handyman Services Platform | [Case Study & Further Details](docs/bulky.md) | [Live Project](https://bulky-peach.vercel.app/) | `Professional` |
-| Aqers | Real Estate Marketplace - UI Development Only | [Case Study & Further Details](docs/aqers.md) | [Live Project](https://aqers.vercel.app/) | `Professional` |
+| Octilearn | EdTech Notes & Exam Preparation Platform |  | [Live Project](https://octilearn.com/) | `Professional` |
+| Yamar | Holiday Planning Website |   | [Live Project](https://yamar.vercel.app/) | `Professional` |
+| Bulky | Handyman Services Platform |  | [Live Project](https://bulky-peach.vercel.app/) | `Professional` |
+| Aqers | Real Estate Marketplace - UI Development Only |  | [Live Project](https://aqers.vercel.app/) | `Professional` |
 | Cynthia Ugwu Clone |  | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) | `Hobby` |
 | Mulk Investment | Real Estate Investment Platform | [Case Study & Further Details](docs/minv.md) |   | `Professional` |
 | JobTask | Handyman Services Business |  [Case Study & Further Details](docs/jobtask.md) |  | `Professional` |
