@@ -8,7 +8,6 @@
 
 - [📖 Summary](#-summary)  
 - [🌐 Demo URL](#-demo-url)  
-- [📑 Case Study](#-case-study)  
 - [🏷 Type](#-type)  
 
 ---
