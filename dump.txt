@@ -1,0 +1,52 @@
+### Madinah
+
+**Summary:**
+Madinah.com is a platform with **more than 10K monthly users** that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.
+
+**Project Details:** [**Click here to view Complete Project Details**](docs/madinah.md)
+
+[Click here to View Live Project](https://madinah.com/)
+
+**My Roles:** 
+- 🖥️ Frontend Development (MVP + Launch)
+- 👨‍💻 Backend Development (API Development)
+- 📊 Project Oversight
+
+---
+[← Back to Table of Contents](#table-of-contents)
+### Zown
+
+**Summary:**
+Zown.ca is a real estate company with **estimated 1000 daily users** that also provides financial assistance on Down payments while purchasing properties on mortgage in Canada.
+
+**Project Details:** [**Click here to view Complete Project Details**](docs/zown.md)
+
+[Click here to View Live Project](https://zown.ca/)
+
+**My Roles:** 
+- 🖥️ Frontend Development (MVP + Maintenance)
+
+---
+[← Back to Table of Contents](#table-of-contents)
+### JobTask UK Ltd.
+
+**Summary:**
+JobTask is a business that provides handyman services, including cleaning, removals, furniture assembly, deliveries etc. Through its website, customers can easily access and book services online. The platform streamlines bookings, payments, and communication, ensuring a smooth experience for both customers and service providers.
+
+**Project Details:** [**Click here to view Complete Project Details**](docs/jobtask.md)
+
+**My Roles:** 
+- 🖥️ Frontend Development
+- 👨‍💻 Backend Development
+- 📈 Project Governance & Reporting
+- ✍ Project Architecture & Planning
+
+---
+
+## Hobby Work
+
+### Project 1  
+**Title:** Awesome Client Project  
+**Technologies:** ![React Badge](...) ![Node Badge](...)  
+**Demo:** [YouTube](https://youtube.com)  
+**Source:** [GitHub](https://github.com)  
