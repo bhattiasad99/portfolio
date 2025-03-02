@@ -36,13 +36,13 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 ## My Work
 | Project Title | Summary | Case Study URL | Demo URL | Type |
 |---------------|-------------|----------------|------------|------|
-| Zown | Real Estate Company Also offering Down Payment Assistance ~ **Daily 1000 users** |  [Case Study & Further Details](docs/zown.md) | [Live Project](https://zown.ca/) | `Professional` |
-| Madinah | A Crowdfunding Platform ~ **Monthly 10K Users** |   [Case Study & Further Details](docs/madinah.md) | [Live Project](https://madinah.com/) | `Professional` |
-| Octilearn | EdTech Notes & Exam Preparation Platform |  | [Live Project](https://octilearn.com/) | `Professional` |
+| **Featured:** Zown | Real Estate Company Also offering Down Payment Assistance ~ **Daily 1000 users** |  [Case Study & Further Details](docs/zown.md) | [Live Project](https://zown.ca/) | `Professional` |
+| **Featured:** Madinah | A Crowdfunding Platform ~ **Monthly 10K Users** |   [Case Study & Further Details](docs/madinah.md) | [Live Project](https://madinah.com/) | `Professional` |
+| **Featured:** Octilearn | EdTech Notes & Exam Preparation Platform |  | [Live Project](https://octilearn.com/) | `Professional` |
+| **Featured:** Cynthia Ugwu Clone |  | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) | `Hobby` |
 | Yamar | Holiday Planning Website |   | [Live Project](https://yamar.vercel.app/) | `Professional` |
 | Bulky | Handyman Services Platform |  | [Live Project](https://bulky-peach.vercel.app/) | `Professional` |
 | Aqers | Real Estate Marketplace - UI Development Only |  | [Live Project](https://aqers.vercel.app/) | `Professional` |
-| Cynthia Ugwu Clone |  | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) | `Hobby` |
 | Mulk Investment | Real Estate Investment Platform |  | [Live Project](https://mulk-investment.vercel.app/) | `Professional` |
 | JobTask | Handyman Services Business |  [Case Study & Further Details](docs/jobtask.md) |  | `Professional` |
 | Sentratainment | Travel Entertainment App |  [Case Study & Further Details](docs/sentratainment.md) |  | `Professional` |
