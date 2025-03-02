@@ -18,7 +18,17 @@
 
 Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. Here, I’ll be showcasing some of my work, including both client projects and personal (hobby) projects. Feel free to explore, and don't hesitate to [get in touch](mailto:bhatti.asad99@gmail.com) if you have any questions.
 
-<img src="me.png" alt="Asad Zubair Bhatti" width="180">
+<img src="me-with-office-bg.jpeg" alt="Asad Zubair Bhatti" width="240">
+
+**Key Skills**
+- Full Stack Development
+- Project Planning & Governance
+- KPI Development
+
+**Programming Languages**
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiL5_UGi2Ft1lCBH-dklG_TIe5kjwRHPEmQ&s" width="20px"> JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="20px"> Python
 
 ---
 
