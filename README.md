@@ -43,7 +43,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 | Bulky | Handyman Services Platform |  | [Live Project](https://bulky-peach.vercel.app/) | `Professional` |
 | Aqers | Real Estate Marketplace - UI Development Only |  | [Live Project](https://aqers.vercel.app/) | `Professional` |
 | Cynthia Ugwu Clone |  | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) | `Hobby` |
-| Mulk Investment | Real Estate Investment Platform | [Case Study & Further Details](docs/minv.md) |   | `Professional` |
+| Mulk Investment | Real Estate Investment Platform |  | [Live Project](https://mulk-investment.vercel.app/) | `Professional` |
 | JobTask | Handyman Services Business |  [Case Study & Further Details](docs/jobtask.md) |  | `Professional` |
 | Sentratainment | Travel Entertainment App |  [Case Study & Further Details](docs/sentratainment.md) |  | `Professional` |
 | Nomadiq | Tenants Management Portal |  [Case Study & Further Details](docs/nomadiq.md) |  | `Professional` |
