@@ -4,7 +4,8 @@
   If it's hosted elsewhere, use the full URL (e.g., `https://example.com/asad.jpg`).
 -->
 
-# Asad Zubair Bhatti's Portfolio ✨
+# Asad Zubair Bhatti ✨
+Welcome to my Profile!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -40,7 +41,14 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 **Summary:**
 Madinah.com is a platform with **more than 10K monthly users** that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.
 
+**Project Details:** [**Click here to view Complete Project Details**](docs/madinah.md)
+
 [Click here to View Live Project](https://madinah.com/)
+
+**My Roles:** 
+- 🖥️ Frontend Development (MVP + Launch)
+- 👨‍💻 Backend Development (API Development)
+- 📊 Project Oversight
 
 **Technologies:** 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
@@ -54,17 +62,19 @@ Madinah.com is a platform with **more than 10K monthly users** that enables comm
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
 
-**My Roles:** 
-- 🖥️ Frontend Development (MVP + Launch)
-- 👨‍💻 Backend Development (API Development)
-- 📊 Project Oversight
-
-**Project Details:** [Click here to view Complete Project Details](docs/madinah.md)
-
 ### JobTask UK Ltd.
+[← Back to Table of Contents](#table-of-contents)
 
 **Summary:**
 JobTask is a business that provides handyman services, including cleaning, removals, furniture assembly, deliveries etc. Through its website, customers can easily access and book services online. The platform streamlines bookings, payments, and communication, ensuring a smooth experience for both customers and service providers.
+
+**Project Details:** [**Click here to view Complete Project Details**](docs/jobtask.md)
+
+**My Roles:** 
+- 🖥️ Frontend Development
+- 👨‍💻 Backend Development
+- 📈 Project Governance & Reporting
+- ✍ Project Architecture & Planning
 
 **Technologies:** 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
@@ -80,14 +90,6 @@ JobTask is a business that provides handyman services, including cleaning, remov
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0umzknxSSbMcb6JY5pXIjxxcTHIedM1Y8gA&s" width="20px"> Vonage
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
-
-**My Roles:** 
-- 🖥️ Frontend Development
-- 👨‍💻 Backend Development
-- 📈 Project Governance & Reporting
-- ✍ Project Architecture & Planning
-
-**Project Details:** [Click here to view Complete Project Details](docs/jobtask.md)
 
 ---
 
