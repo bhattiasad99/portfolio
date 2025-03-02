@@ -7,7 +7,7 @@
 <h1 align="center">🌟 Asad Zubair Bhatti 🌟</h1>
 <h5 align="center">Welcome to my Portfolio!</h5>
 <div align="center">
-<img src="me-with-office-bg.jpeg" alt="Asad Zubair Bhatti" width="170" >
+<img src="me-with-office-bg.jpeg" alt="Asad Zubair Bhatti" >
 </div>
 
 ## Table of Contents
