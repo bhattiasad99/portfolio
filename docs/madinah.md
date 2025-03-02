@@ -12,7 +12,7 @@
 - [🏷 Type](#-type)  
 
 ---
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
 Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
@@ -37,7 +37,7 @@ Madinah.com is a platform that enables communities worldwide to come together an
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
 
 ---
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#-table-of-contents)
 ## 🌐 Demo URL  
 
 🔗 **Live/Staging Link:** [View Demo](https://madinah.com)  
@@ -45,7 +45,7 @@ Madinah.com is a platform that enables communities worldwide to come together an
 *(Users can explore the working version here.)*  
 
 ---
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#-table-of-contents)
 ## 📑 Case Study 
 
 ### 🔥 Business Challenge  
@@ -93,7 +93,7 @@ Our team of web developers, and software architects developed Madinah.com (the U
 📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
 
 ---
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#-table-of-contents)
 ## 🏷 Type  
 
 🛠 **Project Type:** `Professional` 
