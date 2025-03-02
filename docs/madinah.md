@@ -25,6 +25,8 @@ Madinah.com is a platform that enables communities worldwide to come together an
 - **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
 - **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
 
+<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
+
 **Technologies:** 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
@@ -47,8 +49,6 @@ Madinah.com is a platform that enables communities worldwide to come together an
 ---
 
 ## 📑 Case Study: Madinah.com – Transforming Global Crowdfunding for Charitable Causes 
-
-<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
 
 ### 🔥 Business Challenge  
 
