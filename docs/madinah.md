@@ -9,9 +9,6 @@
 - [📖 Summary](#-summary)  
 - [🌐 Demo URL](#-demo-url)  
 - [📑 Case Study](#-case-study)  
-- [🎥 Video Walkthrough](#-video-walkthrough)  
-- [🖼 Images](#-images)  
-- [🔗 GitHub Repository](#-github-repository)  
 - [🏷 Type](#-type)  
 
 ---
@@ -93,31 +90,6 @@ Our team of web developers, and software architects developed Madinah.com (the U
 🛠 **Cleaner Codebase:** Refactoring and structured development allow easier debugging and feature expansion.  
 💡 **Enhanced User Experience:** The intuitive UI/UX led to increased engagement and positive user feedback.  
 📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
-
----
-
-## 🎥 Video Walkthrough  
-
-▶ **Watch the Walkthrough:** [YouTube / Loom](https://example.com)  
-
-*(A short video demonstrating key features.)*  
-
----
-
-## 🖼 Images  
-
-Here are some screenshots of the platform:  
-
-![Screenshot 1](https://via.placeholder.com/800x400)  
-![Screenshot 2](https://via.placeholder.com/800x400)  
-
----
-
-## 🔗 GitHub Repository  
-
-📂 **Source Code:** [GitHub Link](https://github.com/user/repo)  
-
----
 
 ## 🏷 Type  
 
