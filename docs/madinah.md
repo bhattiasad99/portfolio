@@ -63,7 +63,7 @@ Team Madinah required the development of a robust, scalable, and user-friendly p
 Our team of web developers, and software architects developed Madinah.com (the UI was provided by the client) from the ground up, implementing the following solutions:  
 
 ✅ **Strategic Planning & Architecture:** Conducted extensive research and planning to define the platform's core functionalities, user workflows, and technical architecture to ensure long-term scalability and maintainability.  
-✅ **Custom-Built Content Management System (CMS):** Developed a bespoke CMS to allow seamless campaign management, real-time analytics tracking, and scalable growth.
+✅ **Custom-Built Content Management System (CMS):** Developed a bespoke CMS to allow seamless campaign management, real-time analytics tracking, and scalable growth.<br>
 ✅ **Multi-Payment Gateway Integration:** Integrated Stripe, Recurly, and other payment gateways to support multiple currencies and recurring payment methods.  
 ✅ **Payment Integration:** Integrated **Stripe** for secure transactions, ensuring PCI compliance and user trust.  
 ✅ **Advanced Security Measures:** Implemented SSL encryption, PCI-DSS-compliant payment processing, and fraud prevention mechanisms to safeguard user data and transactions.  
@@ -74,16 +74,6 @@ Our team of web developers, and software architects developed Madinah.com (the U
 
 👨‍🎨 **1 Designer** – Focused on UI/UX redesign, improving aesthetics and user journey.  
 👨‍💻 **2 Developers** – Integrated Next.js frontend with the backend, added new APIs, and implemented third-party services.  
-
-### 🛠 Technologies Used  
-
-🚀 **Frontend:** Next.js (React framework) + Material-UI for a sleek, responsive design.  
-🛠 **Backend:** Node.js with Express.js + MongoDB for scalable, document-oriented data storage.  
-🔗 **Third-Party Integrations:**  
-- 📲 **Vonage (Nexmo):** OTP verification for secure user authentication.  
-- 💳 **Stripe:** Seamless and secure payment processing.  
-- ✉️ **SendGrid:** Email notifications for user confirmations.  
-- 💬 **Socket.io:** Real-time chat features between customers and service providers.  
 
 ### 📊 Results & Impact  
 
