@@ -22,6 +22,8 @@
 
 ---
 
+<img src="./../assets/jobtask/JobTaskLogo.png">
+
 ## 📑 Case Study  
 
 ### 🔥 Business Challenge  
