@@ -53,13 +53,13 @@ Madinah.com is a platform with **more than 10K monthly users** that enables comm
 - 👨‍💻 Backend Development (API Development)
 - 📊 Project Oversight
 
+---
+
 ### JobTask UK Ltd.
 [← Back to Table of Contents](#table-of-contents)
 
 **Summary:**
 JobTask is a business that provides handyman services, including cleaning, removals, furniture assembly, deliveries etc. Through its website, customers can easily access and book services online. The platform streamlines bookings, payments, and communication, ensuring a smooth experience for both customers and service providers.
-
-<img src="./assets/jobtask/JobTaskLogo.png">
 
 **Project Details:** [**Click here to view Complete Project Details**](docs/jobtask.md)
 
