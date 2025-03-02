@@ -22,7 +22,7 @@
 
 Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. Here, I’ll be showcasing some of my work, including both client projects and personal (hobby) projects. Feel free to explore, and don't hesitate to [get in touch](mailto:bhatti.asad99@gmail.com) if you have any questions.
 
-[📄 **Click here to download my resume**](resume.pdf)
+[📄 **Click here to view my resume**](https://drive.google.com/file/d/1tkGrEbgiNbKdo_wv-I5hKbRnn-kpO7HE/view?usp=sharing)
 
 **Key Skills**
 - Full Stack Development
