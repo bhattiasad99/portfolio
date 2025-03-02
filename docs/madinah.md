@@ -47,7 +47,7 @@ Madinah.com is a platform that enables communities worldwide to come together an
 ---
 
 ## 📑 Case Study: Madinah.com – Transforming Global Crowdfunding for Charitable Causes 
-
+<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png">
 ### 🔥 Business Challenge  
 
 Team Madinah required the development of a robust, scalable, and user-friendly platform from scratch. The goal was to support international charitable campaigns by providing a seamless experience for donors and campaign organizers alike. Key challenges included:  
@@ -91,8 +91,6 @@ Our team of web developers, and software architects developed Madinah.com (the U
 🛠 **Cleaner Codebase:** Refactoring and structured development allow easier debugging and feature expansion.  
 💡 **Enhanced User Experience:** The intuitive UI/UX led to increased engagement and positive user feedback.  
 📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
-
-
 
 ---
 
