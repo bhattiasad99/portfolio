@@ -52,6 +52,8 @@ JobTask is a handyman service business offering removals, cleaning, furniture as
 
 <img src="./../assets/jobtask/JobTaskLogo.png">
 
+---
+
 ## 📑 Case Study  
 
 ### 🔥 Business Challenge  
@@ -84,14 +86,6 @@ Our team (1 designer & 2 developers) systematically tackled these issues:
 🛠 **Cleaner Codebase:** Refactoring and structured development allow easier debugging and feature expansion.  
 💡 **Enhanced User Experience:** The intuitive UI/UX led to increased engagement and positive user feedback.  
 📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
-
----
-
-## 🌐 Demo URL  
-
-🔗 **Live/Staging Link:** [View Demo](https://example.com)  
-
-*(Users can explore the working version here.)*  
 
 ---
 
