@@ -7,7 +7,7 @@
 <h1 align="center">🌟 Asad Zubair Bhatti 🌟</h1>
 <h5 align="center">Welcome to my Portfolio!</h5>
 <div align="center">
-<img src="me-with-office-bg.jpeg" alt="Asad Zubair Bhatti" >
+<img src="me-with-office-bg.jpeg" alt="Asad Zubair Bhatti" width="240">
 </div>
 
 ## Table of Contents
@@ -71,7 +71,7 @@ Madinah.com is a platform with **more than 10K monthly users** that enables comm
 **Summary:**
 JobTask is a business that provides handyman services, including cleaning, removals, furniture assembly, deliveries etc. Through its website, customers can easily access and book services online. The platform streamlines bookings, payments, and communication, ensuring a smooth experience for both customers and service providers.
 
-<img src="./assets/jobtask/JobTaskLogo.png" width="250">
+<img src="./assets/jobtask/JobTaskLogo.png">
 
 **Project Details:** [**Click here to view Complete Project Details**](docs/jobtask.md)
 
