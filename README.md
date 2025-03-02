@@ -23,7 +23,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 
 ## Client Work
 
-### Jobtask UK Ltd.
+### JobTask UK Ltd.
 
 **Summary:**
 JobTask is a digital marketplace connecting users with a variety of handyman services, from cleaning and removals to furniture assembly and deliveries. It simplifies bookings, payments, and communication, providing a seamless experience for both customers and service providers.
