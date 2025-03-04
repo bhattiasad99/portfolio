@@ -15,7 +15,7 @@
 [Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
-Block App is a mobile app developed for athletes to create custom diet and workout plans tailored to events they register in for competitions. This platform had a frontend mobile app developed in React Native, a backend developed in Express and MongoDB and exposed an external API where coaches uploaded their excel files which were converted into Fitness plans for the athletes
+Block App is a mobile app developed for athletes to create custom diet and workout plans tailored to events they register in for competitions. This platform had a frontend mobile app developed in React Native, a backend developed in Express and MongoDB and exposed an **external API where coaches uploaded their excel files** which were converted into Fitness plans for the athletes
 
 **Key Features:**
 - ✔️ **Detailed & Tailored Workout Plans**
