@@ -44,12 +44,12 @@ Our software company faced several project management challenges:
 
 To address these challenges, we conceptualized and developed Buddy, an AI-driven project management assistant designed to emulate the roles of a traditional project manager:​  
 
-✅ **AI-Powered Task Management:** Buddy automates task assignments, monitors progress, and adjusts workloads based on real-time data, ensuring optimal resource utilization.  
+✅ **AI-Powered Task Management:** Buddy automates task assignments, monitors progress, and adjusts workloads based on real-time data, ensuring optimal resource utilization.  <br>
 ✅ **Virtual Stand-Up Meetings:** Utilizing natural language processing, Buddy conducts virtual stand-up meetings, gathers updates from team members, and summarizes key points, reducing meeting times and enhancing focus.<br>
-✅ **Comprehensive Attendance and Task Logging:** The attendance module requires users to log tasks performed and time spent before signing out, creating a detailed dataset for performance analysis and overrun reduction.  
-✅ **Proactive Roadblock Resolution:** Buddy detects when team members encounter obstacles and automatically schedules meetings with relevant stakeholders, such as tech leads, to facilitate prompt resolutions.  
-✅ **Automated Meeting Documentation:** During meetings, Buddy records discussions, transcribes content, and generates detailed meeting minutes, ensuring accurate documentation and easy retrieval of information.
-✅ **Data-Driven Insights:** Buddy analyzes collected data to provide actionable insights, enabling proactive decision-making and continuous process improvement.  
+✅ **Comprehensive Attendance and Task Logging:** The attendance module requires users to log tasks performed and time spent before signing out, creating a detailed dataset for performance analysis and overrun reduction.  <br>
+✅ **Proactive Roadblock Resolution:** Buddy detects when team members encounter obstacles and automatically schedules meetings with relevant stakeholders, such as tech leads, to facilitate prompt resolutions.  <br>
+✅ **Automated Meeting Documentation:** During meetings, Buddy records discussions, transcribes content, and generates detailed meeting minutes, ensuring accurate documentation and easy retrieval of information.<br>
+✅ **Data-Driven Insights:** Buddy analyzes collected data to provide actionable insights, enabling proactive decision-making and continuous process improvement.  <br>
 
 ### 👥 Team Setup  
 
