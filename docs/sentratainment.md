@@ -23,6 +23,9 @@ Sentratainment is a platform that offers entertainment such as Music, Movies for
 - **Music:** Users also enjoyed listening to music from our music library.
 - **Snack Ordering:** This app also contained functionality for ordering food and drinks to your seat.
 
+---
+
+[Back to Table of Contents](#-table-of-contents)
 ## 📷 Images
 
 ![image](https://github.com/user-attachments/assets/fabafe15-04a7-46f4-8ed9-9001dc11b0b2)
@@ -36,6 +39,7 @@ Sentratainment is a platform that offers entertainment such as Music, Movies for
 
 ---
 
+[Back to Table of Contents](#-table-of-contents)
 ## 🎬 Video Walkthrough
 
 <a href="https://www.loom.com/share/d4927d3fc9214f38bcebdf327604ac3e?sid=1deb6c6e-a07c-4454-8c70-cd977edf3d0f" target="_blank">Click here to view the Video walkthrough of the admin portal</a>
