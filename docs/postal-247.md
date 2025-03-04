@@ -16,7 +16,7 @@
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React Native
 - <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" width="20px"> Firebase
-- <img src="https://miro.medium.com/v2/resize:fit:1400/1*BX6w13QbDA_EY4s5RTVeRA.png" width="20px"> Firebase Functions
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSav0N-WGmPn1jRX0wgyZVqFtNYCBmr8aPBjg&s" width="20px"> Firebase Functions
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
 - <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
