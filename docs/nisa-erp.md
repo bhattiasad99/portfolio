@@ -7,42 +7,28 @@
 ## 📖 Table of Contents  
 
 - [📖 Summary](#-summary)  
-- [🌐 Demo URL](#-demo-url)  
 - [📑 Case Study](#-case-study)  
+- [📷 Images](#-images)  
 - [🏷 Type](#-type)  
 
 ---
 [Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
-Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
-
-**Key Features:**
-- **Trusted Fundraising:** Madinah.com offers a secure environment for fundraising, ensuring that personal information is handled with the utmost safety and compliance.
-- **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
-- **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
-
-<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
+Nisa Nursing Home is a Category 2-C hospital situated in Rawalpindi, Pakistan. This application serves as an ERP that centralizes and automates all the key processes and data for the business  
 
 **Technologies:** 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
+- <img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" width="20px"> NeonDB
+- <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" width="20px"> PostgreSQL
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_B9514BxgQrviAQi6_f9jlKTgLuwzeQL1ng&s" width="20px"> Prisma ORM
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-C0fQxu_VA7Ip_V3edy6gyNH6EBdVeoxqw&s" width="20px"> Sentry
 - <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
+- <img src="https://ahmadalli.gallerycdn.vsassets.io/extensions/ahmadalli/vscode-nginx-conf/0.3.5/1711059993560/Microsoft.VisualStudio.Services.Icons.Default768px-Typescript_logo_2020.svg.png" width="20px"> NginX
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
-
----
-[Back to Table of Contents](#-table-of-contents)
-## 🌐 Demo URL  
-
-🔗 **Live/Staging Link:** [View Demo](https://madinah.com)  
-
-*(Users can explore the working version here.)*  
+- <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" width="20px"> ShadCN/UI
 
 ---
 [Back to Table of Contents](#-table-of-contents)
@@ -50,39 +36,54 @@ Madinah.com is a platform that enables communities worldwide to come together an
 
 ### 🔥 Business Challenge  
 
-Team Madinah required the development of a robust, scalable, and user-friendly platform from scratch. The goal was to support international charitable campaigns by providing a seamless experience for donors and campaign organizers alike. Key challenges included:  
+Nisa Nursing Home faced several operational challenges that impeded its efficiency and compliance with healthcare standards:  
 
-🎯 **End-to-End Platform Development:** The outdated UI lacked professionalism, reducing user trust and engagement.  
-🎯 **Global Accessibility:** The platform needed to cater to a worldwide audience, ensuring seamless functionality across diverse regions and payment systems.  
-🎯 **Scalability and Performance:** The system needed to handle high traffic volumes and large-scale transactions efficiently.  
-🎯 **Trust and Security:** Establishing credibility with donors by implementing transparent campaign tracking, secure payment processing, and compliance with international data protection standards.  
-🎯 **Mobile-First Experience:** With a significant portion of users accessing via mobile, an optimized mobile experience was essential.  
+🎯 **PHC Compliance:** Absence of software solutions directly linked to improving the Punjab Healthcare Commission (PHC) scores.  
+🎯 **Performance Issues:** Cloud-based software options exhibited poor latency, leading to suboptimal performance.
+🎯 **Lack of Customized Reporting:** Existing systems did not support tailored reporting to meet specific organizational needs.​
+🎯 **Fragmented Data Management:** Data was siloed across various systems, hindering integrated data management
+🎯 **Absence of Custom Dashboards:** No provision for personalized dashboards to monitor expenses and other critical metrics.
+🎯 **Inadequate Financial Reporting:** Lack of comprehensive expense and revenue reporting and forecasting tools.
+🎯 **Manual Processes:** Despite digitization efforts, many processes remained manual, requiring significant human intervention.
+🎯 **Undefined Protocols:** No standardized procedures or protocols, leading to reliance on memory for task management.​
+🎯 **Low CMMI Level:** The organization had a low Capability Maturity Model Integration (CMMI) score, indicating immature processes.
 
 ### 💡 Our Solution  
 
-Our team of web developers, and software architects developed Madinah.com (the UI was provided by the client) from the ground up, implementing the following solutions:  
+To address these challenges, we designed, developed, and deployed an on-premises Integrated Management System (IMS) tailored to Nisa Nursing Home's specific needs:​  
 
 ✅ **Strategic Planning & Architecture:** Conducted extensive research and planning to define the platform's core functionalities, user workflows, and technical architecture to ensure long-term scalability and maintainability.  
-✅ **Custom-Built Content Management System (CMS):** Developed a bespoke CMS to allow seamless campaign management, real-time analytics tracking, and scalable growth.<br>
-✅ **Multi-Payment Gateway Integration:** Integrated Stripe, Recurly, and other payment gateways to support multiple currencies and recurring payment methods.  
-✅ **Payment Integration:** Integrated **Stripe** for secure transactions, ensuring PCI compliance and user trust.  
-✅ **Advanced Security Measures:** Implemented SSL encryption, PCI-DSS-compliant payment processing, and fraud prevention mechanisms to safeguard user data and transactions.  
-✅ **Comprehensive Documentation:** Created setup guides, API references, and code documentation for future scalability.  
-✅ **Continuous Optimization & Maintenance:** Leveraged behavioral analytics, heatmaps, and A/B testing to refine user experience and optimize platform performance over time.  
+✅ **PHC Compliance Integration:** Developed modules aligned with PHC standards to enhance compliance and improve PHC scores.  
+✅ **On-Premises Deployment:** Implemented an on-premises solution to eliminate latency issues associated with cloud-based systems, ensuring swift and reliable performance.<br>
+✅ **Customized Reporting:** Introduced a flexible reporting engine allowing the generation of tailored reports to meet diverse organizational requirements.  
+✅ **Integrated Data Management:** Consolidated data from various departments into a unified system, enhancing data accessibility and decision-making.  
+✅ **Custom Dashboards:** Developed personalized dashboards to monitor expenses, revenues, and other key performance indicators in real-time.  
+✅ **Financial Forecasting Tools:** Implemented advanced tools for detailed expense and revenue reporting and forecasting, aiding in financial planning.  
+✅ **Process Automation:** Automated routine tasks to reduce manual intervention, increasing operational efficiency and reducing errors.  
+✅ **Standardized Protocols:** Established clear protocols and workflows, reducing reliance on individual memory and ensuring consistency in operations.  
+✅ **CMMI Level Improvement:** Enhanced process maturity through structured workflows and documentation, leading to an improved CMMI level.  
 
 ### 👥 Team Setup  
 
-👨‍🎨 **1 Designer** – Focused on UI/UX redesign, improving aesthetics and user journey.  
-👨‍💻 **2 Developers** – Integrated Next.js frontend with the backend, added new APIs, and implemented third-party services.  
-
-### 📊 Results & Impact  
-
-🚀 **Faster Load Time:** Next.js optimization significantly reduced load time, improving user experience.  
-🛠 **Cleaner Codebase:** Refactoring and structured development allow easier debugging and feature expansion.  
-💡 **Enhanced User Experience:** The intuitive UI/UX led to increased engagement and positive user feedback.  
-📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
+👨‍💻 **1 Developer**
 
 ---
+[Back to Table of Contents](#-table-of-contents)
+## 📷 Images  
+![image](https://github.com/user-attachments/assets/009c38eb-5492-47cf-9fde-33bf84fb06cf)
+![image](https://github.com/user-attachments/assets/1110f700-50af-43d0-a0e3-81b60a085b6c)
+![image](https://github.com/user-attachments/assets/e28c50f3-ff95-423b-a6ae-e7cd8a43c0d9)
+![image](https://github.com/user-attachments/assets/c130ac1a-0c99-4992-9420-1bb77523b08e)
+![image](https://github.com/user-attachments/assets/8d258fdf-c5d7-45e4-8c6b-5113080fcf08)
+![image](https://github.com/user-attachments/assets/5a6e736a-679a-4eca-902e-49103068bc4d)
+![image](https://github.com/user-attachments/assets/76e025e2-b76a-481c-8c00-3d611bb8d8f1)
+![image](https://github.com/user-attachments/assets/92b54991-10fb-4a05-b910-4c13bf4bf58a)
+![image](https://github.com/user-attachments/assets/280b02d3-4b8a-4f7a-a209-fe7a63355963)
+![image](https://github.com/user-attachments/assets/5656ee84-a6b9-405f-9250-b1e62233fe3a)
+
+
+---
+
 [Back to Table of Contents](#-table-of-contents)
 ## 🏷 Type  
 
