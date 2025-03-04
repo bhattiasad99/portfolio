@@ -46,7 +46,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 | Mulk Investment | Real Estate Investment Platform | `Frontend` | [Live Project](https://mulk-investment.vercel.app/) |  | `Professional` |
 | JobTask | Handyman Services Business | `Frontend` `Backend` `Project Management` `Architecture & Planning` |   | [Case Study & Further Details](docs/jobtask.md) | `Professional` |
 | Sentratainment | Travel Entertainment App | `Frontend` `Backend` |   | [Case Study & Further Details](docs/sentratainment.md) | `Professional` |
-| Nomadiq | Tenants Management Portal | `Backend` |  |  [Case Study & Further Details](docs/nomadiq.md) | `Professional` |
+| Nomadiq | Tenants Management Portal | `Backend` |  [View Video Walkthrough](https://drive.google.com/file/d/1zVA-jtxaXmz7v1rM996F0MFZmm7JTSQ1/preview) |   | `Professional` |
 | Nisa Nursing Home | Hospital Internal ERP | `Product Manager` `Frontend` `Backend` `Architecture & Planning` `UX Research` |   | [Case Study & Further Details](docs/nisa-erp.md) | `Professional` |
 | Buddy | Software Company ERP |  `Product Manager` `Frontend` `Backend` `Architecture & Planning` `UX Research` |   | [Case Study & Further Details](docs/buddy.md) | `Professional` |
 | E-Signature | E-Signature Tool | `Frontend` `Backend` |   | [Case Study & Further Details](docs/esig.md) | `Professional` |
