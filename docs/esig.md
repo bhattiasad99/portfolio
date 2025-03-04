@@ -57,13 +57,6 @@ To address these challenges, we developed a comprehensive digital signature appl
 👨‍🎨 **1 Designer** 
 👨‍💻 **2 Developers**  
 
-### 📊 Results & Impact  
-
-🚀 **Faster Load Time:** Next.js optimization significantly reduced load time, improving user experience.  
-🛠 **Cleaner Codebase:** Refactoring and structured development allow easier debugging and feature expansion.  
-💡 **Enhanced User Experience:** The intuitive UI/UX led to increased engagement and positive user feedback.  
-📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
-
 ---
 [Back to Table of Contents](#-table-of-contents)
 ## 🏷 Type  
