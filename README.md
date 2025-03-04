@@ -42,7 +42,6 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 | **Featured:** Cynthia Ugwu Clone | | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) |  | `Hobby` |
 | Yamar | Holiday Planning Website | `Frontend` | [Live Project](https://yamar.vercel.app/)  |  | `Professional` |
 | Bulky | Handyman Services Platform | `Frontend` | [Live Project](https://bulky-peach.vercel.app/) |  | `Professional` |
-| Atomic Vault | Admin Panel for a Stock Brokerage Company | `Frontend` | [View Video Walkthrough](https://www.loom.com/share/053e8a6b2f0c48b3927d62ea57230963) |  | `Professional` |
 | Aqers | Real Estate Marketplace - UI Development Only | `Frontend` | [Live Project](https://aqers.vercel.app/) |  | `Professional` |
 | Mulk Investment | Real Estate Investment Platform | `Frontend` | [Live Project](https://mulk-investment.vercel.app/) |  | `Professional` |
 | JobTask | Handyman Services Business | `Frontend` `Backend` `Project Management` `Architecture & Planning` |   | [Case Study & Further Details](docs/jobtask.md) | `Professional` |
@@ -56,6 +55,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 | Block App | Fitness & Workout Planning App for Athletes | `Backend` |  |  [Case Study & Further Details](docs/block.md)  | `Professional` |
 | A Data-Driven Industrial Asset Management Company |  | `Codebase Review` |  |  | `Professional` |
 | CONNECT | AI/ML driven software to improve asset integrity management in the energy sector particularly oil and gas | `User Manual ` |  |  | `Professional` |
+| Atomic Vault | Admin Panel for a Stock Brokerage Company | `Frontend` | [View Video Walkthrough](https://www.loom.com/share/053e8a6b2f0c48b3927d62ea57230963) |  | `Professional` |
 
 Thank you for visiting! 
 If you’d like to know more or discuss potential collaborations, feel free to [reach out!](mailto:bhatti.asad99@gmail.com).
