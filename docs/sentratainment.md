@@ -1,14 +1,15 @@
 [⬅ Back to All Projects](../README.md#my-work)
 
-# 📌 Madinah
+# 📌 Sentratainment
 
 ---
 
 ## 📖 Table of Contents  
 
-- [📖 Summary](#-summary)  
-- [🌐 Demo URL](#-demo-url)  
-- [📑 Case Study](#-case-study)  
+- [📖 Summary](#-summary)
+- [Images](#-images)
+- [Video Walkthrough](#-video-walkthrough)
+- [📑 Case Study](#-case-study)
 - [🏷 Type](#-type)  
 
 ---
@@ -22,27 +23,20 @@ Madinah.com is a platform that enables communities worldwide to come together an
 - **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
 - **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
 
-<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
+## 📷 Images
 
-**Technologies:** 
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
-- <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
+![image](https://github.com/user-attachments/assets/fabafe15-04a7-46f4-8ed9-9001dc11b0b2)
+![image](https://github.com/user-attachments/assets/109e174c-03cc-4883-a3c0-0eaf764e0918)
+![image](https://github.com/user-attachments/assets/a1a1fa68-e2e0-4b40-b973-b0238b5a39da)
+![image](https://github.com/user-attachments/assets/5749966d-ddc1-4124-b614-d6b947b368c4)
+![image](https://github.com/user-attachments/assets/330074d9-a289-4091-ac39-837b882883e7)
+![image](https://github.com/user-attachments/assets/f3257896-1a6a-4e25-8497-a83a3f58bdc7)
+![image](https://github.com/user-attachments/assets/2f741bcd-d1c8-4b85-9152-c5f96f5ef423)
+![image](https://github.com/user-attachments/assets/ebd36ca0-a08a-408c-bcaa-0dfb4d41c1f5)
 
----
-[Back to Table of Contents](#-table-of-contents)
-## 🌐 Demo URL  
+## 🎞️ Video Walkthrough
 
-🔗 **Live/Staging Link:** [View Demo](https://madinah.com)  
-
-*(Users can explore the working version here.)*  
+video walkthrough: https://www.loom.com/share/d4927d3fc9214f38bcebdf327604ac3e?sid=1deb6c6e-a07c-4454-8c70-cd977edf3d0f
 
 ---
 [Back to Table of Contents](#-table-of-contents)
@@ -74,6 +68,19 @@ Our team of web developers, and software architects developed Madinah.com (the U
 
 👨‍🎨 **1 Designer** – Focused on UI/UX redesign, improving aesthetics and user journey.  
 👨‍💻 **2 Developers** – Integrated Next.js frontend with the backend, added new APIs, and implemented third-party services.  
+
+
+### ⚛ Technologies
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
+- <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
+- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
 
 ### 📊 Results & Impact  
 
