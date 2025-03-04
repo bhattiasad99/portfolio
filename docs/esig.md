@@ -1,6 +1,6 @@
 [⬅ Back to All Projects](../README.md#my-work)
 
-# 📌 Madinah
+# 📌 E-Signature Platform
 
 ---
 
@@ -50,25 +50,20 @@ Madinah.com is a platform that enables communities worldwide to come together an
 
 ### 🔥 Business Challenge  
 
-Team Madinah required the development of a robust, scalable, and user-friendly platform from scratch. The goal was to support international charitable campaigns by providing a seamless experience for donors and campaign organizers alike. Key challenges included:  
+Our client faced specific challenges in document management:  
 
-🎯 **End-to-End Platform Development:** The outdated UI lacked professionalism, reducing user trust and engagement.  
-🎯 **Global Accessibility:** The platform needed to cater to a worldwide audience, ensuring seamless functionality across diverse regions and payment systems.  
-🎯 **Scalability and Performance:** The system needed to handle high traffic volumes and large-scale transactions efficiently.  
-🎯 **Trust and Security:** Establishing credibility with donors by implementing transparent campaign tracking, secure payment processing, and compliance with international data protection standards.  
-🎯 **Mobile-First Experience:** With a significant portion of users accessing via mobile, an optimized mobile experience was essential.  
+🎯 **Manual Signature Processes:** Relying on physical signatures led to delays and inefficiencies in document workflows.    
+🎯 **Coordination Difficulties:** Managing the signing process among multiple stakeholders was cumbersome and prone to errors.  
+🎯 **Limited Document Tracking:** The absence of a centralized system made it difficult to track the status of signed documents.  
 
 ### 💡 Our Solution  
 
-Our team of web developers, and software architects developed Madinah.com (the UI was provided by the client) from the ground up, implementing the following solutions:  
+To address these challenges, we developed a comprehensive digital signature application with the following features:  
 
-✅ **Strategic Planning & Architecture:** Conducted extensive research and planning to define the platform's core functionalities, user workflows, and technical architecture to ensure long-term scalability and maintainability.  
-✅ **Custom-Built Content Management System (CMS):** Developed a bespoke CMS to allow seamless campaign management, real-time analytics tracking, and scalable growth.<br>
-✅ **Multi-Payment Gateway Integration:** Integrated Stripe, Recurly, and other payment gateways to support multiple currencies and recurring payment methods.  
-✅ **Payment Integration:** Integrated **Stripe** for secure transactions, ensuring PCI compliance and user trust.  
-✅ **Advanced Security Measures:** Implemented SSL encryption, PCI-DSS-compliant payment processing, and fraud prevention mechanisms to safeguard user data and transactions.  
-✅ **Comprehensive Documentation:** Created setup guides, API references, and code documentation for future scalability.  
-✅ **Continuous Optimization & Maintenance:** Leveraged behavioral analytics, heatmaps, and A/B testing to refine user experience and optimize platform performance over time.  
+✅ **Secure Authentication and Access Management:** Implemented robust user authentication mechanisms using the client's existing database, ensuring secure access and data integrity.  <br>
+✅ **Digital Signature Integration:** Enabled users to add digital signatures to their documents seamlessly, enhancing efficiency and reducing turnaround times.<br>
+✅ **Collaborative Signing Requests:** Provided functionality for users to request signatures from others, streamlining the collaboration process and ensuring all necessary parties can sign documents promptly.<br>
+✅ **Signed Document Repository:** Developed a centralized repository where users can view and manage their signed documents, facilitating easy access and organization. <br>
 
 ### 👥 Team Setup  
 
