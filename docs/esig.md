@@ -7,7 +7,6 @@
 ## 📖 Table of Contents  
 
 - [📖 Summary](#-summary)  
-- [🌐 Demo URL](#-demo-url)  
 - [📑 Case Study](#-case-study)  
 - [🏷 Type](#-type)  
 
@@ -15,34 +14,22 @@
 [Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
-Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
+We developed a digital signature application to enhance document management and authentication processes for our client. The application offers secure user authentication, enabling users to digitally sign their documents, request signatures from others, and manage signed documents efficiently.
 
 **Key Features:**
-- **Trusted Fundraising:** Madinah.com offers a secure environment for fundraising, ensuring that personal information is handled with the utmost safety and compliance.
-- **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
-- **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
-
-<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
+- **Secure Authentication and Access Management:** Ensures that only authorized users can access the system, maintaining data integrity and confidentiality.
+- **Digital Signature Integration:** Allows users to apply legally recognized digital signatures to documents, ensuring authenticity and integrity.
+- **Collaborative Signing Requests:** Enables users to send documents to others for signatures, streamlining workflows and reducing delays.
+- **Signed Document Repository:** Provides a centralized location for users to access and manage their signed documents, enhancing organization and retrieval.
 
 **Technologies:** 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
 - <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
 - <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
-
----
-[Back to Table of Contents](#-table-of-contents)
-## 🌐 Demo URL  
-
-🔗 **Live/Staging Link:** [View Demo](https://madinah.com)  
-
-*(Users can explore the working version here.)*  
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw7prTVLyD2FecjiAJA4DRzBgcQK6JwJlMg&s" width="20px"> HTML Canvas
 
 ---
 [Back to Table of Contents](#-table-of-contents)
