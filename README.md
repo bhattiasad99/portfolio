@@ -34,25 +34,25 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 
 [← Back to Table of Contents](#table-of-contents)
 ## My Work
-| Project Title | Summary | Case Study URL | Demo URL | Type |
-|---------------|-------------|----------------|------------|------|
-| **Featured:** Zown | Real Estate Company Also offering Down Payment Assistance ~ **Daily 1000 users** |  [Case Study & Further Details](docs/zown.md) | [Live Project](https://zown.ca/) | `Professional` |
-| **Featured:** Madinah | A Crowdfunding Platform ~ **Monthly 10K Users** |   [Case Study & Further Details](docs/madinah.md) | [Live Project](https://madinah.com/) | `Professional` |
-| **Featured:** Octilearn | EdTech Notes & Exam Preparation Platform |  | [Live Project](https://octilearn.com/) | `Professional` |
-| **Featured:** Cynthia Ugwu Clone |  | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) | `Hobby` |
-| Yamar | Holiday Planning Website |   | [Live Project](https://yamar.vercel.app/) | `Professional` |
-| Bulky | Handyman Services Platform |  | [Live Project](https://bulky-peach.vercel.app/) | `Professional` |
-| Aqers | Real Estate Marketplace - UI Development Only |  | [Live Project](https://aqers.vercel.app/) | `Professional` |
-| Mulk Investment | Real Estate Investment Platform |  | [Live Project](https://mulk-investment.vercel.app/) | `Professional` |
-| JobTask | Handyman Services Business |  [Case Study & Further Details](docs/jobtask.md) |  | `Professional` |
-| Sentratainment | Travel Entertainment App |  [Case Study & Further Details](docs/sentratainment.md) |  | `Professional` |
-| Nomadiq | Tenants Management Portal |  [Case Study & Further Details](docs/nomadiq.md) |  | `Professional` |
-| Nisa Nursing Home | Hospital Internal ERP |  [Case Study & Further Details](docs/nisa-erp.md) |  | `Professional` |
-| Buddy | Software Company ERP |  [Case Study & Further Details](docs/buddy.md) |  | `Professional` |
-| E-Signature | E-Signature Tool |  [Case Study & Further Details](docs/esig.md) |  | `Professional` |
-| Hajj App | Whatsapp Bot for guiding Hajis |  [Case Study & Further Details](docs/hajj.md) |  | `Professional` |
-| Postal 247 | Food Ordering Platform App |  [Case Study & Further Details](docs/postal-247.md) |  | `Professional` |
-| Block App | Fitness & Workout Planning App for Athletes |  [Case Study & Further Details](docs/block.md) |  | `Professional` |
+| Project Title | Summary | Roles | Case Study URL | Demo URL | Type |
+|---------------|-------------|--------|----------------|------------|------|
+| **Featured:** Zown | Real Estate Company Also offering Down Payment Assistance ~ **Daily 1000 users** | `Frontend` | [Case Study & Further Details](docs/zown.md) | [Live Project](https://zown.ca/) | `Professional` |
+| **Featured:** Madinah | A Crowdfunding Platform ~ **Monthly 10K Users** | Frontend` `Backend` `Project Management` `Governance` | [Case Study & Further Details](docs/madinah.md) | [Live Project](https://madinah.com/) | `Professional` |
+| **Featured:** Octilearn | EdTech Notes & Exam Preparation Platform | `Frontend` `Documentation Expert` |  | [Live Project](https://octilearn.com/) | `Professional` |
+| **Featured:** Cynthia Ugwu Clone | | | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) | `Hobby` |
+| Yamar | Holiday Planning Website | `Frontend` |   | [Live Project](https://yamar.vercel.app/) | `Professional` |
+| Bulky | Handyman Services Platform | `Frontend` | | [Live Project](https://bulky-peach.vercel.app/) | `Professional` |
+| Aqers | Real Estate Marketplace - UI Development Only | `Frontend` |  | [Live Project](https://aqers.vercel.app/) | `Professional` |
+| Mulk Investment | Real Estate Investment Platform | `Frontend` | | [Live Project](https://mulk-investment.vercel.app/) | `Professional` |
+| JobTask | Handyman Services Business | `Frontend` `Backend` `Project Management` `Architecture & Planning` |  [Case Study & Further Details](docs/jobtask.md) |  | `Professional` |
+| Sentratainment | Travel Entertainment App | `Frontend` `Backend` |  [Case Study & Further Details](docs/sentratainment.md) |  | `Professional` |
+| Nomadiq | Tenants Management Portal | `Backend` |  [Case Study & Further Details](docs/nomadiq.md) |  | `Professional` |
+| Nisa Nursing Home | Hospital Internal ERP | `Product Manager` `Frontend` `Backend` `Architecture & Planning` `UX Research` |  [Case Study & Further Details](docs/nisa-erp.md) |  | `Professional` |
+| Buddy | Software Company ERP |  `Product Manager` `Frontend` `Backend` `Architecture & Planning` `UX Research` |  [Case Study & Further Details](docs/buddy.md) |  | `Professional` |
+| E-Signature | E-Signature Tool | `Frontend` `Backend` |  [Case Study & Further Details](docs/esig.md) |  | `Professional` |
+| Hajj App | Whatsapp Bot for guiding Hajis | `Backend` `Frontend` |  [Case Study & Further Details](docs/hajj.md) |  | `Professional` |
+| Postal 247 | Food Ordering Platform App | `Frontend` |  [Case Study & Further Details](docs/postal-247.md) |  | `Professional` |
+| Block App | Fitness & Workout Planning App for Athletes | `Backend  |  [Case Study & Further Details](docs/block.md) |  | `Professional` |
 
 Thank you for visiting! 
 If you’d like to know more or discuss potential collaborations, feel free to [reach out!](mailto:bhatti.asad99@gmail.com).
