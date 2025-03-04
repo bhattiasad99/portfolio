@@ -7,8 +7,8 @@
 ## 📖 Table of Contents  
 
 - [📖 Summary](#-summary)
-- [Images](#-images)
-- [Video Walkthrough](#-video-walkthrough)
+- [📷 Images](#-images)
+- [🎬 Video Walkthrough](#-video-walkthrough)
 - [📑 Case Study](#-case-study)
 - [🏷 Type](#-type)  
 
@@ -34,7 +34,7 @@ Madinah.com is a platform that enables communities worldwide to come together an
 ![image](https://github.com/user-attachments/assets/2f741bcd-d1c8-4b85-9152-c5f96f5ef423)
 ![image](https://github.com/user-attachments/assets/ebd36ca0-a08a-408c-bcaa-0dfb4d41c1f5)
 
-## 🎞️ Video Walkthrough
+## 🎬 Video Walkthrough
 
 video walkthrough: https://www.loom.com/share/d4927d3fc9214f38bcebdf327604ac3e?sid=1deb6c6e-a07c-4454-8c70-cd977edf3d0f
 
