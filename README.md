@@ -53,6 +53,8 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 | Hajj App | Whatsapp Bot for guiding Hajis | `Backend` `Frontend` |  | [Case Study & Further Details](docs/hajj.md) | `Professional` |
 | Postal 247 | Food Ordering Platform App | `Frontend` |  | [Case Study & Further Details](docs/postal-247.md) | `Professional` |
 | Block App | Fitness & Workout Planning App for Athletes | `Backend` |  |  [Case Study & Further Details](docs/block.md)  | `Professional` |
+| A Data-Driven Industrial Asset Management Company |  | `Codebase Review` |  |  [Case Study & Further Details](docs/vialogic.md)  | `Professional` |
+| CONNECT | AI/ML driven software to improve asset integrity management in the energy sector particularly oil and gas | `User Manual ` |  |  [Case Study & Further Details](docs/vialogic.md)  | `Professional` |
 
 Thank you for visiting! 
 If you’d like to know more or discuss potential collaborations, feel free to [reach out!](mailto:bhatti.asad99@gmail.com).
