@@ -13,7 +13,7 @@
 - [🏷 Type](#-type)  
 
 ---
-![Back to Table of Contents](#-table-of-contents)
+[Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
 Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
