@@ -11,22 +11,12 @@
 - [📑 Case Study](#-case-study)  
 - [🏷 Type](#-type)  
 
----
 [Back to Table of Contents](#-table-of-contents)
-## 📖 Summary  
-
-Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
-
-**Key Features:**
-- **Trusted Fundraising:** Madinah.com offers a secure environment for fundraising, ensuring that personal information is handled with the utmost safety and compliance.
-- **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
-- **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
-
-<img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
-
-**Technologies:** 
+## ⚡ Technologies 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React Native
+- <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" width="20px"> Firebase
+- <img src="https://miro.medium.com/v2/resize:fit:1400/1*BX6w13QbDA_EY4s5RTVeRA.png" width="20px"> Firebase Functions
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
 - <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
@@ -38,25 +28,16 @@ Madinah.com is a platform that enables communities worldwide to come together an
 
 ---
 [Back to Table of Contents](#-table-of-contents)
-## 🌐 Demo URL  
-
-🔗 **Live/Staging Link:** [View Demo](https://madinah.com)  
-
-*(Users can explore the working version here.)*  
-
----
-[Back to Table of Contents](#-table-of-contents)
 ## 📑 Case Study 
 
 ### 🔥 Business Challenge  
 
-Team Madinah required the development of a robust, scalable, and user-friendly platform from scratch. The goal was to support international charitable campaigns by providing a seamless experience for donors and campaign organizers alike. Key challenges included:  
+Postal 247, a food ordering platform connecting restaurants, bikers, and customers, faced significant operational challenges that hindered its performance and user satisfaction. The primary issues included:  
 
-🎯 **End-to-End Platform Development:** The outdated UI lacked professionalism, reducing user trust and engagement.  
-🎯 **Global Accessibility:** The platform needed to cater to a worldwide audience, ensuring seamless functionality across diverse regions and payment systems.  
-🎯 **Scalability and Performance:** The system needed to handle high traffic volumes and large-scale transactions efficiently.  
-🎯 **Trust and Security:** Establishing credibility with donors by implementing transparent campaign tracking, secure payment processing, and compliance with international data protection standards.  
-🎯 **Mobile-First Experience:** With a significant portion of users accessing via mobile, an optimized mobile experience was essential.  
+🎯 **Unstable Applications:** Frequent crashes across both the React Native biker and user apps, leading to a disrupted user experience.  
+🎯 **Inconsistent Data Structures:** Disparate data structures between the React Native apps and the React.js admin panel resulted in data inconsistencies and application failures.  
+🎯 **Lack of Development Environments:** Absence of separate environments for development, staging, and production led to untested features affecting live users.  
+🎯 **Undefined Firebase Functions:** Firebase functions were neither documented nor version-controlled, causing accidental overwrites and unpredictable system behavior.  
 
 ### 💡 Our Solution  
 
