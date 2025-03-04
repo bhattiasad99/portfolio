@@ -7,7 +7,6 @@
 ## 📖 Table of Contents  
 
 - [📖 Summary](#-summary)  
-- [🌐 Demo URL](#-demo-url)  
 - [🏷 Type](#-type)  
 
 ---
