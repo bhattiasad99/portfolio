@@ -25,7 +25,6 @@ Block App is a mobile app developed for athletes to create custom diet and worko
 <img alt="Infographic Explaining Key Features of Madinah" src="./../assets/block-app/block.png" width="750">
 
 **Technologies:** 
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTfJtjTu-eemku_eSly4eWtOOdJLIaKHJXg&s" width="20px"> MS Excel Scripting
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7QuDfI3pc8CE7MjRsWIg_HISTwwS74OGQw&s" width="20px"> React Native JS
 - <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
