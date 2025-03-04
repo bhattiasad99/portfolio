@@ -1,6 +1,6 @@
 [⬅ Back to All Projects](../README.md#my-work)
 
-# 📌 Madinah
+# 📌 Block App
 
 ---
 
@@ -15,12 +15,12 @@
 [Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
-Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
+Block App is a mobile app developed for athletes to create custom diet and workout plans tailored to events they register in for competitions.
 
 **Key Features:**
-- **Trusted Fundraising:** Madinah.com offers a secure environment for fundraising, ensuring that personal information is handled with the utmost safety and compliance.
-- **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
-- **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
+- ✔️ **Detailed & Tailored Workout Plans**
+- ✔️ **Custom Diet Plans** 
+- ✔️ **Upcoming Event Planning and Weight Target Setting** 
 
 <img alt="Infographic Explaining Key Features of Madinah" src="./../assets/madinah/madinah_features.png" width="750">
 
