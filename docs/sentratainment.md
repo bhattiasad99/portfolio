@@ -16,12 +16,12 @@
 [Back to Table of Contents](#-table-of-contents)
 ## 📖 Summary  
 
-Madinah.com is a platform that enables communities worldwide to come together and make a positive impact. It facilitates fundraising for various causes, allowing individuals, groups, and organizations to start campaigns in just five minutes.  
+Sentratainment is a platform that offers entertainment such as Music, Movies for bus passengers and also allows users to order snacks and drinks from the bus host. The platform was developed using React Native and had an admin portal that was developed using React JS and TypeScript.
 
 **Key Features:**
-- **Trusted Fundraising:** Madinah.com offers a secure environment for fundraising, ensuring that personal information is handled with the utmost safety and compliance.
-- **Diverse Campaigns:** The platform hosts a variety of campaigns, including emergency appeals, community projects, and support for vulnerable populations. For example, recent campaigns have focused on providing meals during Ramadan and supporting families in Gaza with essentials like food, water, medical aid, and shelter.
-- **Community Engagement:** Madinah.com collaborates with registered charities and organizations to maximize the reach and impact of fundraising efforts. This collaborative approach ensures that support is directed to where it's needed most.
+- **Movies:** Sentratainment allowed seemless movies for the passengers.
+- **Music:** Users also enjoyed listening to music from our music library.
+- **Snack Ordering:** This app also contained functionality for ordering food and drinks to your seat.
 
 ## 📷 Images
 
@@ -46,25 +46,27 @@ Madinah.com is a platform that enables communities worldwide to come together an
 
 ### 🔥 Business Challenge  
 
-Team Madinah required the development of a robust, scalable, and user-friendly platform from scratch. The goal was to support international charitable campaigns by providing a seamless experience for donors and campaign organizers alike. Key challenges included:  
+Sentratainment aimed to revolutionize the in-transit entertainment experience for bus passengers by providing a platform that seamlessly integrated:
 
-🎯 **End-to-End Platform Development:** The outdated UI lacked professionalism, reducing user trust and engagement.  
-🎯 **Global Accessibility:** The platform needed to cater to a worldwide audience, ensuring seamless functionality across diverse regions and payment systems.  
-🎯 **Scalability and Performance:** The system needed to handle high traffic volumes and large-scale transactions efficiently.  
-🎯 **Trust and Security:** Establishing credibility with donors by implementing transparent campaign tracking, secure payment processing, and compliance with international data protection standards.  
-🎯 **Mobile-First Experience:** With a significant portion of users accessing via mobile, an optimized mobile experience was essential.  
+🎯 **Movies:** Offering a diverse selection of films.  
+🎯 **Music:** Providing an extensive music library.​  
+🎯 **Snack Ordering:** Enabling passengers to order snacks and drinks directly to their seats.​  
+
+Developing this platform from scratch presented several challenges:
+
+🔴 Cross-Platform Consistency: Ensuring a uniform user experience across both iOS and Android platforms.
+🔴 Performance Optimization: Maintaining high performance and responsiveness across various devices.
+🔴 User Experience (UX): Designing an intuitive interface that caters to a diverse passenger demographic.​
+🔴 Real-Time Synchronization: Implementing real-time updates for snack ordering and media streaming.
 
 ### 💡 Our Solution  
 
-Our team of web developers, and software architects developed Madinah.com (the UI was provided by the client) from the ground up, implementing the following solutions:  
+To address these challenges, our team implemented the following solutions:  
 
-✅ **Strategic Planning & Architecture:** Conducted extensive research and planning to define the platform's core functionalities, user workflows, and technical architecture to ensure long-term scalability and maintainability.  
-✅ **Custom-Built Content Management System (CMS):** Developed a bespoke CMS to allow seamless campaign management, real-time analytics tracking, and scalable growth.<br>
-✅ **Multi-Payment Gateway Integration:** Integrated Stripe, Recurly, and other payment gateways to support multiple currencies and recurring payment methods.  
-✅ **Payment Integration:** Integrated **Stripe** for secure transactions, ensuring PCI compliance and user trust.  
-✅ **Advanced Security Measures:** Implemented SSL encryption, PCI-DSS-compliant payment processing, and fraud prevention mechanisms to safeguard user data and transactions.  
-✅ **Comprehensive Documentation:** Created setup guides, API references, and code documentation for future scalability.  
-✅ **Continuous Optimization & Maintenance:** Leveraged behavioral analytics, heatmaps, and A/B testing to refine user experience and optimize platform performance over time.  
+✅ **Cross-Platform Development:** Utilized React Native to develop a single codebase for both iOS and Android platforms, ensuring consistent functionality and appearance.​  
+✅ **Performance Optimization:** Employed efficient coding practices and optimized media content delivery to ensure smooth playback and quick load times.
+✅ **User-Centric Design:** Conducted user research to inform the design process, resulting in an intuitive and accessible interface tailored to passenger needs.  
+✅ **Real-Time Features:** Integrated real-time databases and WebSocket connections to facilitate instant snack orders and live media streaming.    
 
 ### 👥 Team Setup  
 
