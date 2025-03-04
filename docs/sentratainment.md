@@ -84,10 +84,10 @@ To address these challenges, our team implemented the following solutions:
 
 ### 📊 Results & Impact  
 
-🚀 **Faster Load Time:** Next.js optimization significantly reduced load time, improving user experience.  
-🛠 **Cleaner Codebase:** Refactoring and structured development allow easier debugging and feature expansion.  
-💡 **Enhanced User Experience:** The intuitive UI/UX led to increased engagement and positive user feedback.  
-📈 **Better Scalability:** The new architecture supports future growth, making it easy to expand features.  
+🚀 **Enhanced Passenger Satisfaction:** Provided a diverse range of entertainment options and convenient snack ordering, leading to increased passenger satisfaction and engagement.  
+🛠 **Operational Efficiency:** Streamlined snack ordering processes reduced workload on bus staff, allowing them to focus on other essential duties.  
+💡 **Increased Revenue Streams:** The snack ordering feature opened additional revenue channels for the bus service operators.  
+📈 **Scalability:** The platform's architecture supports easy addition of new features and content, ensuring long-term adaptability and growth.  
 
 ---
 [Back to Table of Contents](#-table-of-contents)
