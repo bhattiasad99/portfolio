@@ -48,42 +48,38 @@ Sentratainment is a platform that offers entertainment such as Music, Movies for
 
 Sentratainment aimed to revolutionize the in-transit entertainment experience for bus passengers by providing a platform that seamlessly integrated:
 
-🎯 **Movies:** Offering a diverse selection of films.  
-🎯 **Music:** Providing an extensive music library.​  
-🎯 **Snack Ordering:** Enabling passengers to order snacks and drinks directly to their seats.​  
+🎯 **Movies:** Offering a diverse selection of films.  <br>
+🎯 **Music:** Providing an extensive music library.​  <br>
+🎯 **Snack Ordering:** Enabling passengers to order snacks and drinks directly to their seats.​  <br>
 
 Developing this platform from scratch presented several challenges:
 
-🔴 Cross-Platform Consistency: Ensuring a uniform user experience across both iOS and Android platforms.
-🔴 Performance Optimization: Maintaining high performance and responsiveness across various devices.
-🔴 User Experience (UX): Designing an intuitive interface that caters to a diverse passenger demographic.​
-🔴 Real-Time Synchronization: Implementing real-time updates for snack ordering and media streaming.
+🔴 Cross-Platform Consistency: Ensuring a uniform user experience across both iOS and Android platforms.<br>
+🔴 Performance Optimization: Maintaining high performance and responsiveness across various devices.<br>
+🔴 User Experience (UX): Designing an intuitive interface that caters to a diverse passenger demographic.<br>​
+🔴 Real-Time Synchronization: Implementing real-time updates for snack ordering and media streaming.<br>
 
 ### 💡 Our Solution  
 
 To address these challenges, our team implemented the following solutions:  
 
 ✅ **Cross-Platform Development:** Utilized React Native to develop a single codebase for both iOS and Android platforms, ensuring consistent functionality and appearance.​  
-✅ **Performance Optimization:** Employed efficient coding practices and optimized media content delivery to ensure smooth playback and quick load times.
+✅ **Performance Optimization:** Employed efficient coding practices and optimized media content delivery to ensure smooth playback and quick load times.<br>
 ✅ **User-Centric Design:** Conducted user research to inform the design process, resulting in an intuitive and accessible interface tailored to passenger needs.  
 ✅ **Real-Time Features:** Integrated real-time databases and WebSocket connections to facilitate instant snack orders and live media streaming.    
 
 ### 👥 Team Setup  
 
 👨‍🎨 **1 Designer** – Focused on UI/UX redesign, improving aesthetics and user journey.  
-👨‍💻 **2 Developers** – Integrated Next.js frontend with the backend, added new APIs, and implemented third-party services.  
-
+👨‍💻 **2 Developers** – Integrated React Native and React JS frontend with the backend developed in Node and Express JS, added new APIs, and implemented third-party services.  
 
 ### ⚛ Technologies
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="20px"> React JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8_YuI-40uCn2rzzrmifB-AQfdFuX0xsGvA&s" width="20px"> Next JS
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmA14or0Iwoiuz1iN3T3YNWe-EX0u83mka7g&s" width="20px"> Recurly
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqybNCvgAj4feiTj8BZ_5qZdFqJp4S07HOA&s" width="20px"> Stripe
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7QuDfI3pc8CE7MjRsWIg_HISTwwS74OGQw&s" width="20px"> React Native JS
 - <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="20px"> Node JS
 - <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="20px"> MongoDB JS
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_RY4COV565Nju7b4ZI5tsPkJQT1imxdFXg&s" width="20px"> ExpressJS JS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1MXKKbbkRKXjSmCqACjxEgULs6Jzzom3STQ&s" width="20px"> Heroku
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eWKWtRacZBDc33NENsW-OdRQ9BNMgMOalg&s" width="20px"> MUI/Material UI v5
 
 ### 📊 Results & Impact  
