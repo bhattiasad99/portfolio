@@ -38,30 +38,30 @@ Nisa Nursing Home is a Category 2-C hospital situated in Rawalpindi, Pakistan. T
 
 Nisa Nursing Home faced several operational challenges that impeded its efficiency and compliance with healthcare standards:  
 
-🎯 **PHC Compliance:** Absence of software solutions directly linked to improving the Punjab Healthcare Commission (PHC) scores.  
-🎯 **Performance Issues:** Cloud-based software options exhibited poor latency, leading to suboptimal performance.
-🎯 **Lack of Customized Reporting:** Existing systems did not support tailored reporting to meet specific organizational needs.​
-🎯 **Fragmented Data Management:** Data was siloed across various systems, hindering integrated data management
-🎯 **Absence of Custom Dashboards:** No provision for personalized dashboards to monitor expenses and other critical metrics.
-🎯 **Inadequate Financial Reporting:** Lack of comprehensive expense and revenue reporting and forecasting tools.
-🎯 **Manual Processes:** Despite digitization efforts, many processes remained manual, requiring significant human intervention.
-🎯 **Undefined Protocols:** No standardized procedures or protocols, leading to reliance on memory for task management.​
-🎯 **Low CMMI Level:** The organization had a low Capability Maturity Model Integration (CMMI) score, indicating immature processes.
+🎯 **PHC Compliance:** Absence of software solutions directly linked to improving the Punjab Healthcare Commission (PHC) scores.  <br>
+🎯 **Performance Issues:** Cloud-based software options exhibited poor latency, leading to suboptimal performance.<br>
+🎯 **Lack of Customized Reporting:** Existing systems did not support tailored reporting to meet specific organizational needs.​<br>
+🎯 **Fragmented Data Management:** Data was siloed across various systems, hindering integrated data management<br>
+🎯 **Absence of Custom Dashboards:** No provision for personalized dashboards to monitor expenses and other critical metrics.<br>
+🎯 **Inadequate Financial Reporting:** Lack of comprehensive expense and revenue reporting and forecasting tools.<br>
+🎯 **Manual Processes:** Despite digitization efforts, many processes remained manual, requiring significant human intervention.<br>
+🎯 **Undefined Protocols:** No standardized procedures or protocols, leading to reliance on memory for task management.​<br>
+🎯 **Low CMMI Level:** The organization had a low Capability Maturity Model Integration (CMMI) score, indicating immature processes.<br>
 
 ### 💡 Our Solution  
 
 To address these challenges, we designed, developed, and deployed an on-premises Integrated Management System (IMS) tailored to Nisa Nursing Home's specific needs:​  
 
-✅ **Strategic Planning & Architecture:** Conducted extensive research and planning to define the platform's core functionalities, user workflows, and technical architecture to ensure long-term scalability and maintainability.  
-✅ **PHC Compliance Integration:** Developed modules aligned with PHC standards to enhance compliance and improve PHC scores.  
+✅ **Strategic Planning & Architecture:** Conducted extensive research and planning to define the platform's core functionalities, user workflows, and technical architecture to ensure long-term scalability and maintainability.  <br>
+✅ **PHC Compliance Integration:** Developed modules aligned with PHC standards to enhance compliance and improve PHC scores.  <br>
 ✅ **On-Premises Deployment:** Implemented an on-premises solution to eliminate latency issues associated with cloud-based systems, ensuring swift and reliable performance.<br>
-✅ **Customized Reporting:** Introduced a flexible reporting engine allowing the generation of tailored reports to meet diverse organizational requirements.  
-✅ **Integrated Data Management:** Consolidated data from various departments into a unified system, enhancing data accessibility and decision-making.  
-✅ **Custom Dashboards:** Developed personalized dashboards to monitor expenses, revenues, and other key performance indicators in real-time.  
-✅ **Financial Forecasting Tools:** Implemented advanced tools for detailed expense and revenue reporting and forecasting, aiding in financial planning.  
-✅ **Process Automation:** Automated routine tasks to reduce manual intervention, increasing operational efficiency and reducing errors.  
-✅ **Standardized Protocols:** Established clear protocols and workflows, reducing reliance on individual memory and ensuring consistency in operations.  
-✅ **CMMI Level Improvement:** Enhanced process maturity through structured workflows and documentation, leading to an improved CMMI level.  
+✅ **Customized Reporting:** Introduced a flexible reporting engine allowing the generation of tailored reports to meet diverse organizational requirements.  <br>
+✅ **Integrated Data Management:** Consolidated data from various departments into a unified system, enhancing data accessibility and decision-making.  <br>
+✅ **Custom Dashboards:** Developed personalized dashboards to monitor expenses, revenues, and other key performance indicators in real-time.  <br>
+✅ **Financial Forecasting Tools:** Implemented advanced tools for detailed expense and revenue reporting and forecasting, aiding in financial planning.  <br>
+✅ **Process Automation:** Automated routine tasks to reduce manual intervention, increasing operational efficiency and reducing errors.  <br>
+✅ **Standardized Protocols:** Established clear protocols and workflows, reducing reliance on individual memory and ensuring consistency in operations.  <br>
+✅ **CMMI Level Improvement:** Enhanced process maturity through structured workflows and documentation, leading to an improved CMMI level.  <br>
 
 ### 👥 Team Setup  
 
