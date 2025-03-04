@@ -38,7 +38,7 @@ Madinah.com is a platform that enables communities worldwide to come together an
 
 ## 🎬 Video Walkthrough
 
-<a href="https://www.loom.com/share/d4927d3fc9214f38bcebdf327604ac3e?sid=1deb6c6e-a07c-4454-8c70-cd977edf3d0f">Click here to view the Video walkthrough of the admin portal</a>
+<a href="https://www.loom.com/share/d4927d3fc9214f38bcebdf327604ac3e?sid=1deb6c6e-a07c-4454-8c70-cd977edf3d0f" target="_blank">Click here to view the Video walkthrough of the admin portal</a>
 
 ---
 [Back to Table of Contents](#-table-of-contents)
