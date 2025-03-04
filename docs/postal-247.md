@@ -6,7 +6,7 @@
 
 ## 📖 Table of Contents  
 
-- [📖 Technologies](#-technologies)  
+- [⚡ Technologies](#-technologies)  
 - [📑 Case Study](#-case-study)  
 - [🏷 Type](#-type)  
 
