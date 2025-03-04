@@ -70,17 +70,16 @@ To address these challenges, we designed, developed, and deployed an on-premises
 ---
 [Back to Table of Contents](#-table-of-contents)
 ## 📷 Images  
-![image](https://github.com/user-attachments/assets/009c38eb-5492-47cf-9fde-33bf84fb06cf)
-![image](https://github.com/user-attachments/assets/1110f700-50af-43d0-a0e3-81b60a085b6c)
-![image](https://github.com/user-attachments/assets/e28c50f3-ff95-423b-a6ae-e7cd8a43c0d9)
-![image](https://github.com/user-attachments/assets/c130ac1a-0c99-4992-9420-1bb77523b08e)
-![image](https://github.com/user-attachments/assets/8d258fdf-c5d7-45e4-8c6b-5113080fcf08)
-![image](https://github.com/user-attachments/assets/5a6e736a-679a-4eca-902e-49103068bc4d)
-![image](https://github.com/user-attachments/assets/76e025e2-b76a-481c-8c00-3d611bb8d8f1)
-![image](https://github.com/user-attachments/assets/92b54991-10fb-4a05-b910-4c13bf4bf58a)
-![image](https://github.com/user-attachments/assets/280b02d3-4b8a-4f7a-a209-fe7a63355963)
-![image](https://github.com/user-attachments/assets/5656ee84-a6b9-405f-9250-b1e62233fe3a)
-
+<img src="https://github.com/user-attachments/assets/009c38eb-5492-47cf-9fde-33bf84fb06cf" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/1110f700-50af-43d0-a0e3-81b60a085b6c" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/e28c50f3-ff95-423b-a6ae-e7cd8a43c0d9" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/c130ac1a-0c99-4992-9420-1bb77523b08e" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/8d258fdf-c5d7-45e4-8c6b-5113080fcf08" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/5a6e736a-679a-4eca-902e-49103068bc4d" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/76e025e2-b76a-481c-8c00-3d611bb8d8f1" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/92b54991-10fb-4a05-b910-4c13bf4bf58a" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/280b02d3-4b8a-4f7a-a209-fe7a63355963" alt="Asad Zubair Bhatti" width="520">
+<img src="https://github.com/user-attachments/assets/5656ee84-a6b9-405f-9250-b1e62233fe3a" alt="Asad Zubair Bhatti" width="520">
 
 ---
 
