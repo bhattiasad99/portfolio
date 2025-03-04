@@ -51,7 +51,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 | Buddy | Software Company ERP |  `Product Manager` `Frontend` `Backend` `Architecture & Planning` `UX Research` |   | [Case Study & Further Details](docs/buddy.md) | `Professional` |
 | E-Signature | E-Signature Tool | `Frontend` `Backend` |   | [Case Study & Further Details](docs/esig.md) | `Professional` |
 | Hajj App | Whatsapp Bot for guiding Hajis | `Backend` `Frontend` |  | [Case Study & Further Details](docs/hajj.md) | `Professional` |
-| Postal 247 | Food Ordering Platform App | `Frontend` |  | [Case Study & Further Details](docs/postal-247.md) | `Professional` |
+| Postal 247 | Food Ordering Platform App | `Technical Consultant` |  | [Case Study & Further Details](docs/postal-247.md) | `Professional` |
 | Block App | Fitness & Workout Planning App for Athletes | `Backend` |  |  [Case Study & Further Details](docs/block.md)  | `Professional` |
 | A Data-Driven Industrial Asset Management Company |  | `Codebase Review` |  |  | `Professional` |
 | CONNECT | AI/ML driven software to improve asset integrity management in the energy sector particularly oil and gas | `User Manual ` |  |  | `Professional` |
