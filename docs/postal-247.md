@@ -6,8 +6,7 @@
 
 ## 📖 Table of Contents  
 
-- [📖 Summary](#-summary)  
-- [🌐 Demo URL](#-demo-url)  
+- [📖 Technologies](#-technologies)  
 - [📑 Case Study](#-case-study)  
 - [🏷 Type](#-type)  
 
