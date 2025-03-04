@@ -54,8 +54,8 @@ To address these challenges, we developed a comprehensive digital signature appl
 
 ### 👥 Team Setup  
 
-👨‍🎨 **1 Designer** – Focused on UI/UX redesign, improving aesthetics and user journey.  
-👨‍💻 **2 Developers** – Integrated Next.js frontend with the backend, added new APIs, and implemented third-party services.  
+👨‍🎨 **1 Designer** 
+👨‍💻 **2 Developers**  
 
 ### 📊 Results & Impact  
 
