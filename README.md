@@ -37,7 +37,7 @@ Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. He
 | Project Title | Summary | Roles | Case Study URL | Demo URL | Type |
 |---------------|-------------|--------|----------------|------------|------|
 | **Featured:** Zown | Real Estate Company Also offering Down Payment Assistance ~ **Daily 1000 users** | `Frontend` | [Live Project](https://zown.ca/) | [Case Study & Further Details](docs/zown.md) | `Professional` |
-| **Featured:** Madinah | A Crowdfunding Platform ~ **Monthly 10K Users** | `Frontend` `Backend` `Project Management` `Governance` | [Live Project](https://madinah.com/) | [Case Study & Further Details](docs/madinah.md) | `Professional` |
+| **Featured:** Madinah | A Crowdfunding Platform ~ **Monthly 20K Users** | `Frontend` `Backend` `Project Management` `Governance` | [Live Project](https://madinah.com/) | [Case Study & Further Details](docs/madinah.md) | `Professional` |
 | **Featured:** Octilearn | EdTech Notes & Exam Preparation Platform | `Frontend` `Documentation Expert` | [Live Project](https://octilearn.com/) |  | `Professional` |
 | **Featured:** Cynthia Ugwu Clone | | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) |  | `Hobby` |
 | Yamar | Holiday Planning Website | `Frontend` | [Live Project](https://yamar.vercel.app/)  |  | `Professional` |
