@@ -1,61 +1,87 @@
-<!-- 
-  Replace `./asad.jpg` with the path or URL to your actual image. 
-  If your image is in the root of the repository, you can use `./asad.jpg`.
-  If it's hosted elsewhere, use the full URL (e.g., `https://example.com/asad.jpg`).
--->
+<h1 align="center">Asad Zubair Bhatti</h1>
+<h5 align="center">💻 Senior Frontend Engineer | Helping founders build fast, scalable apps | React • TypeScript • GraphQL | Urban Mobility Tech | Open to Remote Roles</h5>
 
-<h1 align="center">🌟 Asad Zubair Bhatti 🌟</h1>
-<h5 align="center">Welcome to my Portfolio!</h5>
-<div align="center"><a href="https://drive.google.com/file/d/1kSWvGr9JlFyoSrxfZFi-xDDPK0zmQB6Q/view?usp=sharing"><strong>Click here to view/download my resume</strong></a></div><br>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1kSWvGr9JlFyoSrxfZFi-xDDPK0zmQB6Q/view?usp=sharing"><strong>View/Download My Resume</strong></a>
+</div>
+<br>
 <div align="center">
   <img src="me-with-office-bg.jpeg" alt="Asad Zubair Bhatti" width="240">
 </div>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [My Work](#my-work)
-- [Contact](#contact)
+---
 
-## Introduction
+## About Me
+I'm a frontend engineer who builds **fast, scalable, and user-focused web applications** using React and Next.js. With over **20 professional projects** across Real Estate, EdTech, Healthcare, and SaaS, I specialize in transforming business goals into performant, maintainable products.
 
-Hello! My name is **Asad Zubair Bhatti**. Welcome to my portfolio repository. Here, I’ll be showcasing some of my work, including both client projects and personal (hobby) projects. Feel free to explore, and don't hesitate to [get in touch](mailto:bhatti.asad99@gmail.com) if you have any questions.
-
-**Key Skills**
-- Full Stack Development
-- Project Planning & Governance
-- Strategy
-
-**Programming Languages**
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiL5_UGi2Ft1lCBH-dklG_TIe5kjwRHPEmQ&s" width="20px"> JavaScript
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="20px"> TypeScript
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="20px"> Python
+Currently, I'm diving deep into **GraphQL and frontend performance optimization**, while mentoring junior developers and working on UI design systems.
 
 ---
 
-[← Back to Table of Contents](#table-of-contents)
-## My Work
-| Project Title | Summary | Roles | Case Study URL | Demo URL | Type |
-|---------------|-------------|--------|----------------|------------|------|
-| **Featured:** Zown | Real Estate Company Also offering Down Payment Assistance ~ **Daily 1000 users** | `Frontend` | [Live Project](https://zown.ca/) | [Case Study & Further Details](docs/zown.md) | `Professional` |
-| **Featured:** Madinah | A Crowdfunding Platform ~ **Monthly 20K Users** | `Frontend` `Backend` `Project Management` `Governance` | [Live Project](https://madinah.com/) | [Case Study & Further Details](docs/madinah.md) | `Professional` |
-| **Featured:** Octilearn | EdTech Notes & Exam Preparation Platform | `Frontend` `Documentation Expert` | [Live Project](https://octilearn.com/) |  | `Professional` |
-| **Featured:** Cynthia Ugwu Clone | | | [Live Project](https://cynthiagwu-clone-2.vercel.app/) |  | `Hobby` |
-| Yamar | Holiday Planning Website | `Frontend` | [Live Project](https://yamar.vercel.app/)  |  | `Professional` |
-| Bulky | Handyman Services Platform | `Frontend` | [Live Project](https://bulky-peach.vercel.app/) |  | `Professional` |
-| Aqers | Real Estate Marketplace - UI Development Only | `Frontend` | [Live Project](https://aqers.vercel.app/) |  | `Professional` |
-| Mulk Investment | Real Estate Investment Platform | `Frontend` | [Live Project](https://mulk-investment.vercel.app/) |  | `Professional` |
-| JobTask | Handyman Services Business | `Frontend` `Backend` `Project Management` `Architecture & Planning` |   | [Case Study & Further Details](docs/jobtask.md) | `Professional` |
-| Sentratainment | Travel Entertainment App | `Frontend` `Backend` |   | [Case Study & Further Details](docs/sentratainment.md) | `Professional` |
-| Nomadiq | Tenants Management Portal | `Backend` |  [View Video Walkthrough](https://drive.google.com/file/d/1zVA-jtxaXmz7v1rM996F0MFZmm7JTSQ1/preview) |   | `Professional` |
-| Nisa Nursing Home | Hospital Internal ERP | `Product Manager` `Frontend` `Backend` `Architecture & Planning` `UX Research` |   | [Case Study & Further Details](docs/nisa-erp.md) | `Professional` |
-| Buddy | Software Company ERP |  `Product Manager` `Frontend` `Backend` `Architecture & Planning` `UX Research` |   | [Case Study & Further Details](docs/buddy.md) | `Professional` |
-| E-Signature | E-Signature Tool | `Frontend` `Backend` |   | [Case Study & Further Details](docs/esig.md) | `Professional` |
-| Hajj App | Whatsapp Bot for guiding Hajis | `Backend` `Frontend` |  | [Case Study & Further Details](docs/hajj.md) | `Professional` |
-| Postal 247 | Food Ordering Platform App | `Technical Consultant` |  | [Case Study & Further Details](docs/postal-247.md) | `Professional` |
-| Block App | Fitness & Workout Planning App for Athletes | `Backend` |  |  [Case Study & Further Details](docs/block.md)  | `Professional` |
-| A Data-Driven Industrial Asset Management Company |  | `Codebase Review` |  |  | `Professional` |
-| CONNECT | AI/ML driven software to improve asset integrity management in the energy sector particularly oil and gas | `User Manual ` |  |  | `Professional` |
-| Atomic Vault | Admin Panel for a Stock Brokerage Company | `Frontend` | [View Video Walkthrough](https://www.loom.com/share/053e8a6b2f0c48b3927d62ea57230963) |  | `Professional` |
+## Programming Languages
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiL5_UGi2Ft1lCBH-dklG_TIe5kjwRHPEmQ&s" width="20px"> JavaScript &nbsp;&nbsp;<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="20px"> TypeScript &nbsp;&nbsp;<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAojdfiU-YTTglyAywGexed1DmziFkV5v1Yg&s" width="20px"> Python<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUqVsC42zgrIqA2-jtTXYsKk-1Ug2i8nxcA&s" width="20px"> Go / Golang<br>
 
-Thank you for visiting! 
-If you’d like to know more or discuss potential collaborations, feel free to [reach out!](mailto:bhatti.asad99@gmail.com).
+---
+
+## Key Skills
+- Frontend Engineering (React, Next.js, TailwindCSS, Cypress)
+- Full-Stack Development (Node.js, Express, Supabase, NestJS, Jest, PostgreSQL)
+- UI/UX Design Systems & Component Libraries
+- Real-time Features (WebSockets, Live Data Feeds)
+- Product Management & Project Architecture
+
+---
+
+## Table of Contents
+- [Featured Projects](#featured-projects)
+- [Other Projects](#other-projects)
+- [Problem-Solving Highlights](#problem-solving-highlights)
+- [Contact](#contact)
+
+---
+
+## Featured Projects
+
+| Project Title | Summary | My Role | Tech Used | Links |
+|---------------|---------|---------|-----------|-------|
+| **Zown** | Real Estate Platform with Down Payment Assistance (~1000 Daily Users) | Frontend Engineer | Next.js, TailwindCSS, Firebase | [Live](https://zown.ca/) \| [Case Study](docs/zown.md) |
+| **Madinah** | Crowdfunding Platform (~20K Monthly Users) | Full-Stack Dev, PM, Governance | React, Node.js, Supabase | [Live](https://madinah.com/) \| [Case Study](docs/madinah.md) |
+| **Octilearn** | EdTech Notes & Exam Prep Platform | Frontend, Documentation Expert | Next.js, Supabase | [Live](https://octilearn.com/) |
+| **Nisa ERP** | Hospital Internal ERP | Product Manager, Full-Stack | React, Node.js, MongoDB | [Case Study](docs/nisa-erp.md) |
+
+---
+
+## Other Projects 
+(Select Highlights)
+
+| Project Title | Summary | Role | Tech Used | Links |
+|---------------|---------|------|-----------|------|
+| Cynthia Ugwu Clone | GSAP-based UI clone to master animations and scroll effects | Frontend | React, GSAP | [Live](https://cynthiagwu-clone-2.vercel.app/) |
+| Yamar | Holiday Planning Website | Frontend | Next.js, TailwindCSS | [Live](https://yamar.vercel.app/) |
+| Buddy ERP | Software Company ERP | PM, Full-Stack | React, Express.js, MongoDB | [Case Study](docs/buddy.md) |
+| Atomic Vault | Admin Panel for Stock Brokerage | Frontend | React, TailwindCSS | [Video Walkthrough](https://www.loom.com/share/053e8a6b2f0c48b3927d62ea57230963) |
+| Hajj App | WhatsApp Bot for Hajj Guidance | Full-Stack | Node.js, Twilio API | [Case Study](docs/hajj.md) |
+| Bulky | Handyman Services Platform | Frontend | Next.js | [Live](https://bulky-peach.vercel.app/) |
+
+---
+
+## Problem-Solving Highlights
+- **Reduced page load speed by 40%** on Madinah by optimizing lazy-loading and caching strategies.
+- **Architected reusable UI components** for Zown that decreased feature rollout time by 30%.
+- **Led a cross-functional team of 5** in developing the Nisa ERP, improving workflow efficiency by 60%.
+- **Integrated real-time data sync** using WebSockets in multiple projects to enhance user interactivity.
+
+---
+
+## Contact
+If you’re looking for a frontend engineer who can **solve business problems through scalable UI architectures**, feel free to reach out!
+
+bhatti.asad99@gmail.com  
+[LinkedIn](https://linkedin.com/bhattiasad99)
+
+---
+
+Thank you for visiting!
