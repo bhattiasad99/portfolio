@@ -1,5 +1,5 @@
 # 👨‍💻 Asad Zubair Bhatti
-#### Senior Frontend Engineer | React • TypeScript • GraphQL | Focused on Scalable, User-Centered Applications | Passionate about Urban Mobility Tech | Open to Remote Roles
+#### Software Developer | React • TypeScript • GraphQL • NestJS • WordPress • Wix • Webflow • ExpressJS | Focused on Scalable, User-Centered Applications | Passionate about Urban Mobility Tech | Open to Remote Roles
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1kSWvGr9JlFyoSrxfZFi-xDDPK0zmQB6Q/view?usp=sharing"><strong>📄 View / Download My Resume</strong></a>
@@ -29,6 +29,12 @@ I thrive in collaborative environments, where I can contribute to both the techn
 - **React**, **Next.js**, **TailwindCSS**
 - **GraphQL**, **Node.js**, **Supabase**
 - **Python**, **Go (Golang)**
+
+## 🛠 No Code Platforms
+
+- **Wordpress**,
+- **Wix**
+- **Webflow**
 
 ---
 
