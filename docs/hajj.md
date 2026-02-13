@@ -1,6 +1,6 @@
 [⬅ Back to All Projects](../README.md#my-work)
 
-# 📌 Madinah
+# 📌 Hajj Prilgrim Assistance WhatsApp Bot
 
 ---
 
