@@ -331,14 +331,12 @@ Each domain is implemented as an isolated module.
 
 ```
 audit
-
-controller
-service
-repository
-domain
+trainings
 events
-dto
-mapper
+notifications
+risk-management
+task-management
+...
 ```
 
 ---
